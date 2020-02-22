@@ -3,16 +3,16 @@ guid: 7c645aea6faf2564aa5917bd4ca765ea
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1791626755524472096
+      213: 21300000
     second: On (24x8)_0
   - first:
-      213: 2808568988328597549
+      213: 21300002
     second: On (24x8)_1
   - first:
-      213: 5279052050488763491
+      213: 21300004
     second: On (24x8)_2
   - first:
-      213: 7902450143595181059
+      213: 21300006
     second: On (24x8)_3
   externalObjects: {}
   serializedVersion: 10
@@ -81,7 +81,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
@@ -93,7 +93,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -113,7 +113,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ec63fc19a425a02458a58d281a95d219
-      internalID: -1791626755524472096
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -134,7 +134,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5ed4211f751f1044797ad7c52dcf8022
-      internalID: 2808568988328597549
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -155,7 +155,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a5f117d228086eb4782d22861a613b27
-      internalID: 5279052050488763491
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -176,7 +176,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: df930f36a3f6d6b47ac3eb59c0682822
-      internalID: 7902450143595181059
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []

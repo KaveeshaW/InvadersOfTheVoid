@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - interactable
   layers:
   - Default
   - TransparentFX
@@ -13,7 +14,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - player
   - 
   - 
   - 
@@ -41,12 +42,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Background props
-    uniqueID: 3560651697
-    locked: 0
   - name: Platform Collision Layer
     uniqueID: 1241817645
     locked: 0
   - name: Platform Layer
     uniqueID: 3904262061
+    locked: 0
+  - name: Background props
+    uniqueID: 3560651697
+    locked: 0
+  - name: Player
+    uniqueID: 1576314671
+    locked: 0
+  - name: Interactable Objects
+    uniqueID: 2549902097
     locked: 0
