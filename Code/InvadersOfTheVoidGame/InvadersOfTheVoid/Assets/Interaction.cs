@@ -3,7 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Interaction : MonoBehaviour
+
 {
+
+    private SpriteRenderer rend;
+    private Sprite catSprite, monsterSprite;
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("interactable"))
@@ -11,8 +15,6 @@ public class Interaction : MonoBehaviour
             Debug.Log(other.name);
             if (Input.GetButtonDown("fire1"))
             {
-
-                jump = true;
 
             }
         }
