@@ -13,9 +13,1426 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-02-22T22:18:10.971-06:00
-  initializedAtString: 2020-02-22T22:18:10.971-06:00
+  lastUpdatedAtString: 2020-02-24T17:46:24.862-06:00
+  initializedAtString: 2020-02-24T17:46:24.697-06:00
   log:
+  - commitID: 8ec64996903d249cfd6ddfa5292392675c65b8b8
+    mergeA: 
+    mergeB: 
+    authorName: Eperez77
+    authorEmail: eperez77@uic.edu
+    commitEmail: eperez77@uic.edu
+    commitName: Eperez77
+    summary: commit
+    description: test
+    timeString: 2020-02-24T17:46:16.000-06:00
+    commitTimeString: 2020-02-24T17:46:16.000-06:00
+    changes:
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Pixel Adventure 2\Assets\Enemies\AngryPig\Materials.meta
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Pixel
+        Adventure 2\Assets\Enemies\AngryPig\Materials.meta
+      projectPath: Assets\Pixel Adventure 2\Assets\Enemies\AngryPig\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Pixel Adventure 2\Assets\Enemies\AngryPig\Materials\Hit
+        2 (36x30).mat
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Pixel
+        Adventure 2\Assets\Enemies\AngryPig\Materials\Hit 2 (36x30).mat
+      projectPath: Assets\Pixel Adventure 2\Assets\Enemies\AngryPig\Materials\Hit
+        2 (36x30).mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Pixel Adventure 2\Assets\Enemies\AngryPig\Materials\Hit
+        2 (36x30).mat.meta
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Pixel
+        Adventure 2\Assets\Enemies\AngryPig\Materials\Hit 2 (36x30).mat.meta
+      projectPath: Assets\Pixel Adventure 2\Assets\Enemies\AngryPig\Materials\Hit
+        2 (36x30).mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\room_1-1_movement.unity
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\room_1-1_movement.unity
+      projectPath: Assets\room_1-1_movement.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ArtifactDB
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\12\12d4351c78ae31df1f6c969d9d2e63d0
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\12\12d4351c78ae31df1f6c969d9d2e63d0
+      projectPath: Library\Artifacts\12\12d4351c78ae31df1f6c969d9d2e63d0
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\23\237efaaf70b24678c7129dc84eeb4444
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\23\237efaaf70b24678c7129dc84eeb4444
+      projectPath: Library\Artifacts\23\237efaaf70b24678c7129dc84eeb4444
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\24\246c646b19c91d1f0f4273175ee3dad4
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\24\246c646b19c91d1f0f4273175ee3dad4
+      projectPath: Library\Artifacts\24\246c646b19c91d1f0f4273175ee3dad4
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\35\356e68b07121c0d5b83e3c788ba0081f
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\35\356e68b07121c0d5b83e3c788ba0081f
+      projectPath: Library\Artifacts\35\356e68b07121c0d5b83e3c788ba0081f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\3f\3ff85d24360d53985e96fe5c569c4a43
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\3f\3ff85d24360d53985e96fe5c569c4a43
+      projectPath: Library\Artifacts\3f\3ff85d24360d53985e96fe5c569c4a43
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\45\45aebe5f1c8424851484d85eb34383e0
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\45\45aebe5f1c8424851484d85eb34383e0
+      projectPath: Library\Artifacts\45\45aebe5f1c8424851484d85eb34383e0
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\4d\4d00f8559e76c2f7c030df1e1ea5ffd8
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\4d\4d00f8559e76c2f7c030df1e1ea5ffd8
+      projectPath: Library\Artifacts\4d\4d00f8559e76c2f7c030df1e1ea5ffd8
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\4e\4e6f7c29c5f986c7c190d37f1fc6ec0b
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\4e\4e6f7c29c5f986c7c190d37f1fc6ec0b
+      projectPath: Library\Artifacts\4e\4e6f7c29c5f986c7c190d37f1fc6ec0b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\57\57938bb1574ccefd7a03fed6ebced2c0
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\57\57938bb1574ccefd7a03fed6ebced2c0
+      projectPath: Library\Artifacts\57\57938bb1574ccefd7a03fed6ebced2c0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\63\63560127de18346bad8ead46b9cf1e5a
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\63\63560127de18346bad8ead46b9cf1e5a
+      projectPath: Library\Artifacts\63\63560127de18346bad8ead46b9cf1e5a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\8e\8e381af73e0aded4254cba8441746a6f
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\8e\8e381af73e0aded4254cba8441746a6f
+      projectPath: Library\Artifacts\8e\8e381af73e0aded4254cba8441746a6f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\92\922b5471967fa78f94987357e7b5be45
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\92\922b5471967fa78f94987357e7b5be45
+      projectPath: Library\Artifacts\92\922b5471967fa78f94987357e7b5be45
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\92\92ec85af5e14619f948fa2fe786d7712
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\92\92ec85af5e14619f948fa2fe786d7712
+      projectPath: Library\Artifacts\92\92ec85af5e14619f948fa2fe786d7712
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\9a\9a8504077a8c1a50b61b2202720535a4
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\9a\9a8504077a8c1a50b61b2202720535a4
+      projectPath: Library\Artifacts\9a\9a8504077a8c1a50b61b2202720535a4
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\9e\9ee143b3f6cf99dd7dc8c4d9220c7074
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\9e\9ee143b3f6cf99dd7dc8c4d9220c7074
+      projectPath: Library\Artifacts\9e\9ee143b3f6cf99dd7dc8c4d9220c7074
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\a3\a3803c0c51dd2004e1ffb0d33a729544
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\a3\a3803c0c51dd2004e1ffb0d33a729544
+      projectPath: Library\Artifacts\a3\a3803c0c51dd2004e1ffb0d33a729544
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\a7\a7c3377b79d987b4fce6a8c781244a2b
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\a7\a7c3377b79d987b4fce6a8c781244a2b
+      projectPath: Library\Artifacts\a7\a7c3377b79d987b4fce6a8c781244a2b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\ac\ac59d0245610e294f859b6bb63a163a4
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\ac\ac59d0245610e294f859b6bb63a163a4
+      projectPath: Library\Artifacts\ac\ac59d0245610e294f859b6bb63a163a4
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\bc\bcc7d139b9ebde547584e357d7cd4575
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\bc\bcc7d139b9ebde547584e357d7cd4575
+      projectPath: Library\Artifacts\bc\bcc7d139b9ebde547584e357d7cd4575
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\c2\c256de688c3366f597ec95cd9c2c5612
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\c2\c256de688c3366f597ec95cd9c2c5612
+      projectPath: Library\Artifacts\c2\c256de688c3366f597ec95cd9c2c5612
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\ca\ca50d099116295bdbc76a2c157c4eb6d
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\ca\ca50d099116295bdbc76a2c157c4eb6d
+      projectPath: Library\Artifacts\ca\ca50d099116295bdbc76a2c157c4eb6d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\cb\cb2dc23c1d189ef6c281cc74e6b31f96
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\cb\cb2dc23c1d189ef6c281cc74e6b31f96
+      projectPath: Library\Artifacts\cb\cb2dc23c1d189ef6c281cc74e6b31f96
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\cd\cd9fdf3660c64e22d4b886546c60dd6b
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\cd\cd9fdf3660c64e22d4b886546c60dd6b
+      projectPath: Library\Artifacts\cd\cd9fdf3660c64e22d4b886546c60dd6b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\d0\d00ec2c404106f9687b3e2b442db9deb
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\d0\d00ec2c404106f9687b3e2b442db9deb
+      projectPath: Library\Artifacts\d0\d00ec2c404106f9687b3e2b442db9deb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\d7\d7b35c87622c51e3be4aa77b7cf37ed6
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\d7\d7b35c87622c51e3be4aa77b7cf37ed6
+      projectPath: Library\Artifacts\d7\d7b35c87622c51e3be4aa77b7cf37ed6
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\da\da04fcb0f9d87482866477a7a5a8034a
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\da\da04fcb0f9d87482866477a7a5a8034a
+      projectPath: Library\Artifacts\da\da04fcb0f9d87482866477a7a5a8034a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\f1\f1332be4f29d334a2d8d68be752762ea
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\f1\f1332be4f29d334a2d8d68be752762ea
+      projectPath: Library\Artifacts\f1\f1332be4f29d334a2d8d68be752762ea
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\f4\f4797e2a2c8c1afbaaa234cbeafb3944
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\f4\f4797e2a2c8c1afbaaa234cbeafb3944
+      projectPath: Library\Artifacts\f4\f4797e2a2c8c1afbaaa234cbeafb3944
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\f9\f97c92545df3abbbed527c90cfbe62ee
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\f9\f97c92545df3abbbed527c90cfbe62ee
+      projectPath: Library\Artifacts\f9\f97c92545df3abbbed527c90cfbe62ee
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\fb\fb895131a6d7331480d08e7527e9a38e
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\fb\fb895131a6d7331480d08e7527e9a38e
+      projectPath: Library\Artifacts\fb\fb895131a6d7331480d08e7527e9a38e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\fe\fe4cbfd83b9993dfdaaee3d77aa80aec
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\fe\fe4cbfd83b9993dfdaaee3d77aa80aec
+      projectPath: Library\Artifacts\fe\fe4cbfd83b9993dfdaaee3d77aa80aec
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Collab\CollabSnapshot_babe1180-5f0d-4e70-bc4a-0c7b0c16db44.txt
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Collab\CollabSnapshot_babe1180-5f0d-4e70-bc4a-0c7b0c16db44.txt
+      projectPath: Library\Collab\CollabSnapshot_babe1180-5f0d-4e70-bc4a-0c7b0c16db44.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\EditorInstance.json
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\SourceAssetDB
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\StateCache\Hierarchy\b0114d-mainStage.json
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\StateCache\Hierarchy\b0114d-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\b0114d-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\StateCache\SceneView\e11065-mainStage.json
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\StateCache\SceneView\e11065-mainStage.json
+      projectPath: Library\StateCache\SceneView\e11065-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: ddd233c80c09a40d1f1502b67964ed1a174f44ad
+    mergeA: 
+    mergeB: 
+    authorName: Eperez77
+    authorEmail: eperez77@uic.edu
+    commitEmail: eperez77@uic.edu
+    commitName: Eperez77
+    summary: Actually saved the files
+    description: lever
+    timeString: 2020-02-24T14:36:59.000-06:00
+    commitTimeString: 2020-02-24T14:36:59.000-06:00
+    changes:
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\APIUpdater\project-dependencies.graph
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\APIUpdater\project-dependencies.graph
+      projectPath: Library\APIUpdater\project-dependencies.graph
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ArtifactDB
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\06\062eaa1c6ab57fa53e845426e77971fd
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\06\062eaa1c6ab57fa53e845426e77971fd
+      projectPath: Library\Artifacts\06\062eaa1c6ab57fa53e845426e77971fd
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\07\075d1f2936ae87494c8201e900756789
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\07\075d1f2936ae87494c8201e900756789
+      projectPath: Library\Artifacts\07\075d1f2936ae87494c8201e900756789
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\09\0909d5109d32655dd97517924262e292
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\09\0909d5109d32655dd97517924262e292
+      projectPath: Library\Artifacts\09\0909d5109d32655dd97517924262e292
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\0b\0b0e69984accd46cf0de54ccddd86ecb
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\0b\0b0e69984accd46cf0de54ccddd86ecb
+      projectPath: Library\Artifacts\0b\0b0e69984accd46cf0de54ccddd86ecb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\0b\0b6b6d394131fcd96dc575a562228d82
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\0b\0b6b6d394131fcd96dc575a562228d82
+      projectPath: Library\Artifacts\0b\0b6b6d394131fcd96dc575a562228d82
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\0d\0d108ab12bdccf740afc621a4b317413
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\0d\0d108ab12bdccf740afc621a4b317413
+      projectPath: Library\Artifacts\0d\0d108ab12bdccf740afc621a4b317413
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\14\14ab4396b3a6129e219a09620c9ab367
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\14\14ab4396b3a6129e219a09620c9ab367
+      projectPath: Library\Artifacts\14\14ab4396b3a6129e219a09620c9ab367
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\15\159e5fa83f749049bc02de98fe6f79a1
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\15\159e5fa83f749049bc02de98fe6f79a1
+      projectPath: Library\Artifacts\15\159e5fa83f749049bc02de98fe6f79a1
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\16\161ac0e50596420b37583aecc4fb271b
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\16\161ac0e50596420b37583aecc4fb271b
+      projectPath: Library\Artifacts\16\161ac0e50596420b37583aecc4fb271b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\1d\1da4025568848a4732528f25173b81bb
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\1d\1da4025568848a4732528f25173b81bb
+      projectPath: Library\Artifacts\1d\1da4025568848a4732528f25173b81bb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\1d\1ddc9533ed4abb61866a35bf092d4c33
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\1d\1ddc9533ed4abb61866a35bf092d4c33
+      projectPath: Library\Artifacts\1d\1ddc9533ed4abb61866a35bf092d4c33
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\1f\1f6581bf66c25f929e05cef03aef3d8d
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\1f\1f6581bf66c25f929e05cef03aef3d8d
+      projectPath: Library\Artifacts\1f\1f6581bf66c25f929e05cef03aef3d8d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\1f\1fdd3e829296fad9fd23601647b74f8f
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\1f\1fdd3e829296fad9fd23601647b74f8f
+      projectPath: Library\Artifacts\1f\1fdd3e829296fad9fd23601647b74f8f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\24\2468a97cb44febcc5bd5eeeb7104d02b
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\24\2468a97cb44febcc5bd5eeeb7104d02b
+      projectPath: Library\Artifacts\24\2468a97cb44febcc5bd5eeeb7104d02b
+      originalPath: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\bf\bf60b2a3e1a7f1c19d950989ac5b4001
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\24\24824b8164c6708735562a41b96304a0
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\24\24824b8164c6708735562a41b96304a0
+      projectPath: Library\Artifacts\24\24824b8164c6708735562a41b96304a0
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\26\26f532734e5f6b7c8b519c3dc890846a
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\26\26f532734e5f6b7c8b519c3dc890846a
+      projectPath: Library\Artifacts\26\26f532734e5f6b7c8b519c3dc890846a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\27\2771a8c2e9d0b19f3bf74629f3ef6200
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\27\2771a8c2e9d0b19f3bf74629f3ef6200
+      projectPath: Library\Artifacts\27\2771a8c2e9d0b19f3bf74629f3ef6200
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\27\27b05d62cf12e68b33109c0fbc201339
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\27\27b05d62cf12e68b33109c0fbc201339
+      projectPath: Library\Artifacts\27\27b05d62cf12e68b33109c0fbc201339
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\28\28611146d20a36f795b77d1379a65e57
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\28\28611146d20a36f795b77d1379a65e57
+      projectPath: Library\Artifacts\28\28611146d20a36f795b77d1379a65e57
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\29\2963bbbea2c98b94e53aa19cb8d8e257
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\29\2963bbbea2c98b94e53aa19cb8d8e257
+      projectPath: Library\Artifacts\29\2963bbbea2c98b94e53aa19cb8d8e257
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\2d\2d7f60bd0017e0cfa66cc04bb0aa941d
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\2d\2d7f60bd0017e0cfa66cc04bb0aa941d
+      projectPath: Library\Artifacts\2d\2d7f60bd0017e0cfa66cc04bb0aa941d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\2d\2d8b11126c5a6fcc4f8bef2812a68e81
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\2d\2d8b11126c5a6fcc4f8bef2812a68e81
+      projectPath: Library\Artifacts\2d\2d8b11126c5a6fcc4f8bef2812a68e81
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\31\31c3a1811d2220d11fcc6f0882d8718c
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\31\31c3a1811d2220d11fcc6f0882d8718c
+      projectPath: Library\Artifacts\31\31c3a1811d2220d11fcc6f0882d8718c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\33\33037308ab43ab9abbe27388dda72116
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\33\33037308ab43ab9abbe27388dda72116
+      projectPath: Library\Artifacts\33\33037308ab43ab9abbe27388dda72116
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\34\344491efa5da856f7d167ab867456cd8
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\34\344491efa5da856f7d167ab867456cd8
+      projectPath: Library\Artifacts\34\344491efa5da856f7d167ab867456cd8
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\38\3829dcfdc3854012ec9bdd351263f04d
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\38\3829dcfdc3854012ec9bdd351263f04d
+      projectPath: Library\Artifacts\38\3829dcfdc3854012ec9bdd351263f04d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\3d\3d29e3bd07d9ae53f5f96cb92c5d04d4
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\3d\3d29e3bd07d9ae53f5f96cb92c5d04d4
+      projectPath: Library\Artifacts\3d\3d29e3bd07d9ae53f5f96cb92c5d04d4
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\3f\3f7e6ed1072ab9485771542df14594ee
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\3f\3f7e6ed1072ab9485771542df14594ee
+      projectPath: Library\Artifacts\3f\3f7e6ed1072ab9485771542df14594ee
+      originalPath: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\05\052829bdc3c80d8a1817a6f0f8c4d11f
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\3f\3fb2cec953ed8feef95bf52b6e52495a
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\3f\3fb2cec953ed8feef95bf52b6e52495a
+      projectPath: Library\Artifacts\3f\3fb2cec953ed8feef95bf52b6e52495a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\43\43fc92c2f24048bcf8181d1f2bdf52ce
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\43\43fc92c2f24048bcf8181d1f2bdf52ce
+      projectPath: Library\Artifacts\43\43fc92c2f24048bcf8181d1f2bdf52ce
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\4e\4ebee3830806dce953578494d2ff2b4b
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\4e\4ebee3830806dce953578494d2ff2b4b
+      projectPath: Library\Artifacts\4e\4ebee3830806dce953578494d2ff2b4b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\50\501781968e0aa77d3b8a547c235eb0c8
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\50\501781968e0aa77d3b8a547c235eb0c8
+      projectPath: Library\Artifacts\50\501781968e0aa77d3b8a547c235eb0c8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\51\5112e114e8fa2dc2a9b3b58167de7a18
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\51\5112e114e8fa2dc2a9b3b58167de7a18
+      projectPath: Library\Artifacts\51\5112e114e8fa2dc2a9b3b58167de7a18
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\53\53fad138a971b2383d90d5c093ebb624
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\53\53fad138a971b2383d90d5c093ebb624
+      projectPath: Library\Artifacts\53\53fad138a971b2383d90d5c093ebb624
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\54\54ee11fddfbb8fc5a288b8b2c41088cc
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\54\54ee11fddfbb8fc5a288b8b2c41088cc
+      projectPath: Library\Artifacts\54\54ee11fddfbb8fc5a288b8b2c41088cc
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\55\556412e4024daf54f89622dfe37d98c2
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\55\556412e4024daf54f89622dfe37d98c2
+      projectPath: Library\Artifacts\55\556412e4024daf54f89622dfe37d98c2
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\55\55ce8f223fbd7e571267a599d0c41984
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\55\55ce8f223fbd7e571267a599d0c41984
+      projectPath: Library\Artifacts\55\55ce8f223fbd7e571267a599d0c41984
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\59\5901f358c516a09958a0251a79601043
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\59\5901f358c516a09958a0251a79601043
+      projectPath: Library\Artifacts\59\5901f358c516a09958a0251a79601043
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\5c\5c40b11a61ec30a7148bd4b58adde9e1
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\5c\5c40b11a61ec30a7148bd4b58adde9e1
+      projectPath: Library\Artifacts\5c\5c40b11a61ec30a7148bd4b58adde9e1
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\5e\5e9779cdfd206448ad0529340f864474
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\5e\5e9779cdfd206448ad0529340f864474
+      projectPath: Library\Artifacts\5e\5e9779cdfd206448ad0529340f864474
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\61\61036204cee912e2b609b9b5918dc924
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\61\61036204cee912e2b609b9b5918dc924
+      projectPath: Library\Artifacts\61\61036204cee912e2b609b9b5918dc924
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\63\63ed5d4f129f4104fb6669e5459816f3
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\63\63ed5d4f129f4104fb6669e5459816f3
+      projectPath: Library\Artifacts\63\63ed5d4f129f4104fb6669e5459816f3
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\65\658f7b3dc64c48232e72305a63e9c440
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\65\658f7b3dc64c48232e72305a63e9c440
+      projectPath: Library\Artifacts\65\658f7b3dc64c48232e72305a63e9c440
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\67\67631b6a46a530389c03734211691085
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\67\67631b6a46a530389c03734211691085
+      projectPath: Library\Artifacts\67\67631b6a46a530389c03734211691085
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\69\6943d8b85fde64ebe9f7fdc78f223e2b
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\69\6943d8b85fde64ebe9f7fdc78f223e2b
+      projectPath: Library\Artifacts\69\6943d8b85fde64ebe9f7fdc78f223e2b
+      originalPath: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\ca\ca0985d9ed943eee11ba2441658ba8a5
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\6a\6a4738c760307f4a83ba1dacdebe4edd
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\6a\6a4738c760307f4a83ba1dacdebe4edd
+      projectPath: Library\Artifacts\6a\6a4738c760307f4a83ba1dacdebe4edd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\6f\6f0eb0928bab747a96cf2307946d5627
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\6f\6f0eb0928bab747a96cf2307946d5627
+      projectPath: Library\Artifacts\6f\6f0eb0928bab747a96cf2307946d5627
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\6f\6f1201838caa05b9a5df8f14c59ee87f
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\6f\6f1201838caa05b9a5df8f14c59ee87f
+      projectPath: Library\Artifacts\6f\6f1201838caa05b9a5df8f14c59ee87f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\72\724ebcb7540ba90a88a215f791a7913e
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\72\724ebcb7540ba90a88a215f791a7913e
+      projectPath: Library\Artifacts\72\724ebcb7540ba90a88a215f791a7913e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\7b\7b1c4d9206703385835eb0065f897d0a
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\7b\7b1c4d9206703385835eb0065f897d0a
+      projectPath: Library\Artifacts\7b\7b1c4d9206703385835eb0065f897d0a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\7c\7c4e6aff1ebcb6773df03c094035ccb8
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\7c\7c4e6aff1ebcb6773df03c094035ccb8
+      projectPath: Library\Artifacts\7c\7c4e6aff1ebcb6773df03c094035ccb8
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\7c\7cab4406dc73dac6c73d692672bd829c
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\7c\7cab4406dc73dac6c73d692672bd829c
+      projectPath: Library\Artifacts\7c\7cab4406dc73dac6c73d692672bd829c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\7d\7d568d7938936e36462c0dec3e11c9aa
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\7d\7d568d7938936e36462c0dec3e11c9aa
+      projectPath: Library\Artifacts\7d\7d568d7938936e36462c0dec3e11c9aa
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\84\842698095a67f20306524163049d9b50
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\84\842698095a67f20306524163049d9b50
+      projectPath: Library\Artifacts\84\842698095a67f20306524163049d9b50
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\87\87fadb88483572c6e208ff739908bbb3
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\87\87fadb88483572c6e208ff739908bbb3
+      projectPath: Library\Artifacts\87\87fadb88483572c6e208ff739908bbb3
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\8c\8cb670f28beac6d363cb19892e4ccd68
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\8c\8cb670f28beac6d363cb19892e4ccd68
+      projectPath: Library\Artifacts\8c\8cb670f28beac6d363cb19892e4ccd68
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\91\910ad4e10dd5282f61929e4336875f96
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\91\910ad4e10dd5282f61929e4336875f96
+      projectPath: Library\Artifacts\91\910ad4e10dd5282f61929e4336875f96
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\96\96338c5f35ba30895286bec20902082f
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\96\96338c5f35ba30895286bec20902082f
+      projectPath: Library\Artifacts\96\96338c5f35ba30895286bec20902082f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\96\96b1967c2d0f6c7524df4e67a240af94
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\96\96b1967c2d0f6c7524df4e67a240af94
+      projectPath: Library\Artifacts\96\96b1967c2d0f6c7524df4e67a240af94
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\99\998099f46ae74762766ed8d9422ab0b1
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\99\998099f46ae74762766ed8d9422ab0b1
+      projectPath: Library\Artifacts\99\998099f46ae74762766ed8d9422ab0b1
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\a2\a2d795c2c27f4f0355eaf24209565fdd
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\a2\a2d795c2c27f4f0355eaf24209565fdd
+      projectPath: Library\Artifacts\a2\a2d795c2c27f4f0355eaf24209565fdd
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\a4\a4ffd72814d18a781841b654f4895afa
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\a4\a4ffd72814d18a781841b654f4895afa
+      projectPath: Library\Artifacts\a4\a4ffd72814d18a781841b654f4895afa
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\a5\a5b7f1226908991b899b6c8e01e5aeea
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\a5\a5b7f1226908991b899b6c8e01e5aeea
+      projectPath: Library\Artifacts\a5\a5b7f1226908991b899b6c8e01e5aeea
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\a9\a923960ee3e607880f86d34da83e3ecd
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\a9\a923960ee3e607880f86d34da83e3ecd
+      projectPath: Library\Artifacts\a9\a923960ee3e607880f86d34da83e3ecd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\ab\ab45bae03e73b3e479c3b6921b5922f7
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\ab\ab45bae03e73b3e479c3b6921b5922f7
+      projectPath: Library\Artifacts\ab\ab45bae03e73b3e479c3b6921b5922f7
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\ad\ad0e7543bf80a44687793291ab15da8c
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\ad\ad0e7543bf80a44687793291ab15da8c
+      projectPath: Library\Artifacts\ad\ad0e7543bf80a44687793291ab15da8c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\ae\ae9170d3be6c388a8838422189a79200
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\ae\ae9170d3be6c388a8838422189a79200
+      projectPath: Library\Artifacts\ae\ae9170d3be6c388a8838422189a79200
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\af\af91704719589b575c6526208a2aedaf
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\af\af91704719589b575c6526208a2aedaf
+      projectPath: Library\Artifacts\af\af91704719589b575c6526208a2aedaf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\b0\b03326ef667db67aadf416eb283774af
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\b0\b03326ef667db67aadf416eb283774af
+      projectPath: Library\Artifacts\b0\b03326ef667db67aadf416eb283774af
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\b0\b0a6107452c614b28cbb0178e62d2e20
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\b0\b0a6107452c614b28cbb0178e62d2e20
+      projectPath: Library\Artifacts\b0\b0a6107452c614b28cbb0178e62d2e20
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\b9\b982129458e2376adf911e2daf67554a
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\b9\b982129458e2376adf911e2daf67554a
+      projectPath: Library\Artifacts\b9\b982129458e2376adf911e2daf67554a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\b9\b99cb463a8e186de7ebd15f778659147
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\b9\b99cb463a8e186de7ebd15f778659147
+      projectPath: Library\Artifacts\b9\b99cb463a8e186de7ebd15f778659147
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\ba\ba3e91c5d3bb69cc7050406a27252541
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\ba\ba3e91c5d3bb69cc7050406a27252541
+      projectPath: Library\Artifacts\ba\ba3e91c5d3bb69cc7050406a27252541
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\bb\bb19cfe949df82b86bead1c859e59d29
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\bb\bb19cfe949df82b86bead1c859e59d29
+      projectPath: Library\Artifacts\bb\bb19cfe949df82b86bead1c859e59d29
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\bb\bba06e4eaf28c10ee1584c1fd778a9ab
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\bb\bba06e4eaf28c10ee1584c1fd778a9ab
+      projectPath: Library\Artifacts\bb\bba06e4eaf28c10ee1584c1fd778a9ab
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\bd\bdfca341d2ecace00c7b9b1aa5357a28
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\bd\bdfca341d2ecace00c7b9b1aa5357a28
+      projectPath: Library\Artifacts\bd\bdfca341d2ecace00c7b9b1aa5357a28
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\be\be41d398a577a9efe3c2fbfaf887d3bc
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\be\be41d398a577a9efe3c2fbfaf887d3bc
+      projectPath: Library\Artifacts\be\be41d398a577a9efe3c2fbfaf887d3bc
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\c2\c286bbd7abd383ff71ba3e073edef42c
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\c2\c286bbd7abd383ff71ba3e073edef42c
+      projectPath: Library\Artifacts\c2\c286bbd7abd383ff71ba3e073edef42c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\c5\c588d54f158c751a3370c6826727781d
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\c5\c588d54f158c751a3370c6826727781d
+      projectPath: Library\Artifacts\c5\c588d54f158c751a3370c6826727781d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\cb\cb1d8d65b7330200cd0fceba5aa52348
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\cb\cb1d8d65b7330200cd0fceba5aa52348
+      projectPath: Library\Artifacts\cb\cb1d8d65b7330200cd0fceba5aa52348
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\cd\cd5978e0e3dc2f54879cda921650a881
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\cd\cd5978e0e3dc2f54879cda921650a881
+      projectPath: Library\Artifacts\cd\cd5978e0e3dc2f54879cda921650a881
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\cd\cdcc607c39593980cdfa1bf5c860bd90
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\cd\cdcc607c39593980cdfa1bf5c860bd90
+      projectPath: Library\Artifacts\cd\cdcc607c39593980cdfa1bf5c860bd90
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\cf\cfe3d434f28e90c1a3f9167b3be6f577
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\cf\cfe3d434f28e90c1a3f9167b3be6f577
+      projectPath: Library\Artifacts\cf\cfe3d434f28e90c1a3f9167b3be6f577
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\d3\d3f7380c008c4ad2fcca35a049fdc0eb
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\d3\d3f7380c008c4ad2fcca35a049fdc0eb
+      projectPath: Library\Artifacts\d3\d3f7380c008c4ad2fcca35a049fdc0eb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\d4\d44b1545fe0876812eb3effa723ed2b4
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\d4\d44b1545fe0876812eb3effa723ed2b4
+      projectPath: Library\Artifacts\d4\d44b1545fe0876812eb3effa723ed2b4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\db\db978132d3e32631e8cc62ab8ddd7a56
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\db\db978132d3e32631e8cc62ab8ddd7a56
+      projectPath: Library\Artifacts\db\db978132d3e32631e8cc62ab8ddd7a56
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\df\df234a123802dc652c5462b211f1a4a7
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\df\df234a123802dc652c5462b211f1a4a7
+      projectPath: Library\Artifacts\df\df234a123802dc652c5462b211f1a4a7
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\e9\e991a4c394c8f4c099fad0043e687b11
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\e9\e991a4c394c8f4c099fad0043e687b11
+      projectPath: Library\Artifacts\e9\e991a4c394c8f4c099fad0043e687b11
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\e9\e9cfb426543356c126c9191be8854fda
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\e9\e9cfb426543356c126c9191be8854fda
+      projectPath: Library\Artifacts\e9\e9cfb426543356c126c9191be8854fda
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\ef\ef6e2a888f18c9dff8dab405bce4a893
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\ef\ef6e2a888f18c9dff8dab405bce4a893
+      projectPath: Library\Artifacts\ef\ef6e2a888f18c9dff8dab405bce4a893
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\f3\f30234cca1a022a958df4d538d59fad2
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\f3\f30234cca1a022a958df4d538d59fad2
+      projectPath: Library\Artifacts\f3\f30234cca1a022a958df4d538d59fad2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\f6\f6a0f3e6d2a808c76aea7a695a3c6653
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\f6\f6a0f3e6d2a808c76aea7a695a3c6653
+      projectPath: Library\Artifacts\f6\f6a0f3e6d2a808c76aea7a695a3c6653
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\f7\f7a57caf918a50175508281085ff3f24
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\f7\f7a57caf918a50175508281085ff3f24
+      projectPath: Library\Artifacts\f7\f7a57caf918a50175508281085ff3f24
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\fa\fa77b430d1bf40c0acdcdd0747315912
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\fa\fa77b430d1bf40c0acdcdd0747315912
+      projectPath: Library\Artifacts\fa\fa77b430d1bf40c0acdcdd0747315912
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Collab\CollabSnapshot_babe1180-5f0d-4e70-bc4a-0c7b0c16db44.txt
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Collab\CollabSnapshot_babe1180-5f0d-4e70-bc4a-0c7b0c16db44.txt
+      projectPath: Library\Collab\CollabSnapshot_babe1180-5f0d-4e70-bc4a-0c7b0c16db44.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\EditorInstance.json
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ShaderCache\EditorEncounteredVariants
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ShaderCache\EditorEncounteredVariants
+      projectPath: Library\ShaderCache\EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\SourceAssetDB
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\StateCache\Hierarchy\b0114d-mainStage.json
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\StateCache\Hierarchy\b0114d-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\b0114d-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 32196c2d18076531bc8f9b48cecc5abaf33c3bda
+    mergeA: 
+    mergeB: 
+    authorName: Eperez77
+    authorEmail: eperez77@uic.edu
+    commitEmail: eperez77@uic.edu
+    commitName: Eperez77
+    summary: Lever works
+    description: With Kung Fu Grip
+    timeString: 2020-02-24T14:12:21.000-06:00
+    commitTimeString: 2020-02-24T14:12:21.000-06:00
+    changes:
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\InteractLever.cs
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\InteractLever.cs
+      projectPath: Assets\InteractLever.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\InteractLever.cs.meta
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\InteractLever.cs.meta
+      projectPath: Assets\InteractLever.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Interaction.cs
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Interaction.cs
+      projectPath: Assets\Interaction.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ArtifactDB
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\26\26f532734e5f6b7c8b519c3dc890846a
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\26\26f532734e5f6b7c8b519c3dc890846a
+      projectPath: Library\Artifacts\26\26f532734e5f6b7c8b519c3dc890846a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\29\2963bbbea2c98b94e53aa19cb8d8e257
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\29\2963bbbea2c98b94e53aa19cb8d8e257
+      projectPath: Library\Artifacts\29\2963bbbea2c98b94e53aa19cb8d8e257
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\38\3829dcfdc3854012ec9bdd351263f04d
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\38\3829dcfdc3854012ec9bdd351263f04d
+      projectPath: Library\Artifacts\38\3829dcfdc3854012ec9bdd351263f04d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\3d\3d29e3bd07d9ae53f5f96cb92c5d04d4
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\3d\3d29e3bd07d9ae53f5f96cb92c5d04d4
+      projectPath: Library\Artifacts\3d\3d29e3bd07d9ae53f5f96cb92c5d04d4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\4e\4ebee3830806dce953578494d2ff2b4b
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\4e\4ebee3830806dce953578494d2ff2b4b
+      projectPath: Library\Artifacts\4e\4ebee3830806dce953578494d2ff2b4b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\63\63ed5d4f129f4104fb6669e5459816f3
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\63\63ed5d4f129f4104fb6669e5459816f3
+      projectPath: Library\Artifacts\63\63ed5d4f129f4104fb6669e5459816f3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\66\66fd0e9400c948dbbc67758175917e8e
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\66\66fd0e9400c948dbbc67758175917e8e
+      projectPath: Library\Artifacts\66\66fd0e9400c948dbbc67758175917e8e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\7b\7b1c4d9206703385835eb0065f897d0a
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\7b\7b1c4d9206703385835eb0065f897d0a
+      projectPath: Library\Artifacts\7b\7b1c4d9206703385835eb0065f897d0a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\a5\a5b7f1226908991b899b6c8e01e5aeea
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\a5\a5b7f1226908991b899b6c8e01e5aeea
+      projectPath: Library\Artifacts\a5\a5b7f1226908991b899b6c8e01e5aeea
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\bb\bb19cfe949df82b86bead1c859e59d29
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\bb\bb19cfe949df82b86bead1c859e59d29
+      projectPath: Library\Artifacts\bb\bb19cfe949df82b86bead1c859e59d29
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\c2\c286bbd7abd383ff71ba3e073edef42c
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\c2\c286bbd7abd383ff71ba3e073edef42c
+      projectPath: Library\Artifacts\c2\c286bbd7abd383ff71ba3e073edef42c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\c6\c65ad58a054cae654728bdad2c947055
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\c6\c65ad58a054cae654728bdad2c947055
+      projectPath: Library\Artifacts\c6\c65ad58a054cae654728bdad2c947055
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\cf\cfe3d434f28e90c1a3f9167b3be6f577
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\cf\cfe3d434f28e90c1a3f9167b3be6f577
+      projectPath: Library\Artifacts\cf\cfe3d434f28e90c1a3f9167b3be6f577
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\f7\f7a57caf918a50175508281085ff3f24
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\f7\f7a57caf918a50175508281085ff3f24
+      projectPath: Library\Artifacts\f7\f7a57caf918a50175508281085ff3f24
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Collab\CollabSnapshot_babe1180-5f0d-4e70-bc4a-0c7b0c16db44.txt
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Collab\CollabSnapshot_babe1180-5f0d-4e70-bc4a-0c7b0c16db44.txt
+      projectPath: Library\Collab\CollabSnapshot_babe1180-5f0d-4e70-bc4a-0c7b0c16db44.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\CurrentMaximizeLayout.dwlt
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\SourceAssetDB
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\StateCache\Hierarchy\b0114d-mainStage.json
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\StateCache\Hierarchy\b0114d-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\b0114d-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\ProjectSettings\TagManager.asset
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 1ea4a6b0f9d784165421d52eb18692324c42a80d
+    mergeA: 
+    mergeB: 
+    authorName: Eperez77
+    authorEmail: eperez77@uic.edu
+    commitEmail: eperez77@uic.edu
+    commitName: Eperez77
+    summary: Basic scripting
+    description: Basic scripting for lever
+    timeString: 2020-02-24T10:44:05.000-06:00
+    commitTimeString: 2020-02-24T10:44:05.000-06:00
+    changes:
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Interaction.cs
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Interaction.cs
+      projectPath: Assets\Interaction.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\changecolor.cs
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\changecolor.cs
+      projectPath: Assets\changecolor.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ArtifactDB
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\1e\1e2b3f100865c64428b6d532bb43db16
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\1e\1e2b3f100865c64428b6d532bb43db16
+      projectPath: Library\Artifacts\1e\1e2b3f100865c64428b6d532bb43db16
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\1f\1fdd3e829296fad9fd23601647b74f8f
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\1f\1fdd3e829296fad9fd23601647b74f8f
+      projectPath: Library\Artifacts\1f\1fdd3e829296fad9fd23601647b74f8f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\2d\2d8b11126c5a6fcc4f8bef2812a68e81
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\2d\2d8b11126c5a6fcc4f8bef2812a68e81
+      projectPath: Library\Artifacts\2d\2d8b11126c5a6fcc4f8bef2812a68e81
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\54\54ee11fddfbb8fc5a288b8b2c41088cc
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\54\54ee11fddfbb8fc5a288b8b2c41088cc
+      projectPath: Library\Artifacts\54\54ee11fddfbb8fc5a288b8b2c41088cc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\6f\6f0eb0928bab747a96cf2307946d5627
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\6f\6f0eb0928bab747a96cf2307946d5627
+      projectPath: Library\Artifacts\6f\6f0eb0928bab747a96cf2307946d5627
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\87\87fadb88483572c6e208ff739908bbb3
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\87\87fadb88483572c6e208ff739908bbb3
+      projectPath: Library\Artifacts\87\87fadb88483572c6e208ff739908bbb3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\a2\a2d795c2c27f4f0355eaf24209565fdd
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\a2\a2d795c2c27f4f0355eaf24209565fdd
+      projectPath: Library\Artifacts\a2\a2d795c2c27f4f0355eaf24209565fdd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\b0\b03326ef667db67aadf416eb283774af
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\b0\b03326ef667db67aadf416eb283774af
+      projectPath: Library\Artifacts\b0\b03326ef667db67aadf416eb283774af
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\ba\ba3e91c5d3bb69cc7050406a27252541
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\ba\ba3e91c5d3bb69cc7050406a27252541
+      projectPath: Library\Artifacts\ba\ba3e91c5d3bb69cc7050406a27252541
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\c5\c588d54f158c751a3370c6826727781d
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\c5\c588d54f158c751a3370c6826727781d
+      projectPath: Library\Artifacts\c5\c588d54f158c751a3370c6826727781d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\ca\ca0985d9ed943eee11ba2441658ba8a5
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\ca\ca0985d9ed943eee11ba2441658ba8a5
+      projectPath: Library\Artifacts\ca\ca0985d9ed943eee11ba2441658ba8a5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\fa\fa77b430d1bf40c0acdcdd0747315912
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\fa\fa77b430d1bf40c0acdcdd0747315912
+      projectPath: Library\Artifacts\fa\fa77b430d1bf40c0acdcdd0747315912
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Collab\CollabSnapshot_babe1180-5f0d-4e70-bc4a-0c7b0c16db44.txt
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Collab\CollabSnapshot_babe1180-5f0d-4e70-bc4a-0c7b0c16db44.txt
+      projectPath: Library\Collab\CollabSnapshot_babe1180-5f0d-4e70-bc4a-0c7b0c16db44.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\CurrentMaximizeLayout.dwlt
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\SourceAssetDB
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\ProjectSettings\InputManager.asset
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: e26bbda8c2f122631f29fbc62d906bc41324ded1
     mergeA: 
     mergeB: 
