@@ -8,7 +8,7 @@ public class respawnPlayer : MonoBehaviour
     [SerializeField] Transform SpawnPoint;
     private void OnCollisionEnter2D(Collision2D col)
     {
-        if(col.transform.CompareTag("Player"))
+        if(col.transform.CompareTag("player"))
         {
             col.transform.position = SpawnPoint.position;
         }
