@@ -6,6 +6,7 @@ TagManager:
   tags:
   - interactable
   - player
+  - enemy
   layers:
   - Default
   - TransparentFX
@@ -16,7 +17,7 @@ TagManager:
   - 
   - 
   - player
-  - 
+  - enemy
   - 
   - 
   - 
