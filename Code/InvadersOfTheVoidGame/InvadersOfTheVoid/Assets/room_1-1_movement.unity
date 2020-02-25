@@ -509,12 +509,14 @@ GameObject:
   m_Component:
   - component: {fileID: 613846335}
   - component: {fileID: 613846338}
-  - component: {fileID: 613846337}
   - component: {fileID: 613846336}
+  - component: {fileID: 613846344}
+  - component: {fileID: 613846343}
   - component: {fileID: 613846339}
   - component: {fileID: 613846340}
   - component: {fileID: 613846341}
   - component: {fileID: 613846342}
+  - component: {fileID: 613846337}
   m_Layer: 8
   m_Name: player
   m_TagString: Untagged
@@ -554,37 +556,30 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: db6ffe61e5614764c9b3dfcad73b08bf, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!61 &613846337
-BoxCollider2D:
+--- !u!95 &613846337
+Animator:
+  serializedVersion: 3
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 613846334}
   m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.00459148, y: 0.000000014901161}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.32, y: 0.32}
-    newSize: {x: 0.32, y: 0.32}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 0.20796788, y: 0.26459256}
-  m_EdgeRadius: 0
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 954c4038089bce4429f3f6a065baf1c2, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!212 &613846338
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -647,7 +642,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 177cbb294d6cd2d45be05d4462eb467c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_JumpForce: 400
+  m_JumpForce: 300
   m_CrouchSpeed: 0.36
   m_MovementSmoothing: 0.05
   m_AirControl: 1
@@ -659,7 +654,18 @@ MonoBehaviour:
   m_CrouchDisableCollider: {fileID: 0}
   OnLandEvent:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 613846340}
+        m_MethodName: PlayerLanding
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   OnCrouchEvent:
     m_PersistentCalls:
       m_Calls: []
@@ -676,7 +682,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controller: {fileID: 613846339}
-  runSpeed: 40
+  animator: {fileID: 613846337}
+  runSpeed: 30
 --- !u!114 &613846341
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -701,6 +708,38 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7f37531e3fc98bf47a67012316b4bf7f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!58 &613846343
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 613846334}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.010236168, y: -0.05874774}
+  serializedVersion: 2
+  m_Radius: 0.07700382
+--- !u!58 &613846344
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 613846334}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.0085762665, y: 0.028876163}
+  serializedVersion: 2
+  m_Radius: 0.088894196
 --- !u!1 &1098922445
 GameObject:
   m_ObjectHideFlags: 0
