@@ -15,7 +15,7 @@ public class Interaction : MonoBehaviour
     void Start()
     {
         rend = GetComponent<SpriteRenderer>();
-        leverSprite = Resources.Load<Sprite>("Medieval_props_free_12");
+//leverSprite = Resources.Load<Sprite>("Medieval_props_free_12");
         leverFrontOf = false;
         //colorRed = Resources.Load<Color>("FF0000");
 
