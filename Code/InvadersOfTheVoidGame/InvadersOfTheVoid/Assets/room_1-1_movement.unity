@@ -499,6 +499,20 @@ CircleCollider2D:
   m_Offset: {x: -0.01412178, y: 0}
   serializedVersion: 2
   m_Radius: 0.5972432
+--- !u!114 &537325534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 537325530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffc262a8c3f45714d83cfc09e53f10b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  leverSpritePulled: {fileID: 21300024, guid: ae3918a914038694d852d0bb81f62473, type: 3}
+  leverSpriteUpright: {fileID: 21300022, guid: ae3918a914038694d852d0bb81f62473, type: 3}
 --- !u!1 &613846334
 GameObject:
   m_ObjectHideFlags: 0
@@ -517,7 +531,7 @@ GameObject:
   - component: {fileID: 613846342}
   m_Layer: 8
   m_Name: player
-  m_TagString: Untagged
+  m_TagString: player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
