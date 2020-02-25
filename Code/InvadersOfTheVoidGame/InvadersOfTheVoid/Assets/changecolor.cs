@@ -5,7 +5,6 @@ using UnityEngine;
 public class changecolor : MonoBehaviour
 {
     private SpriteRenderer rend;
-    private Sprite catSprite, monsterSprite;
     private Color colorRed;
 
     // Start is called before the first frame update
