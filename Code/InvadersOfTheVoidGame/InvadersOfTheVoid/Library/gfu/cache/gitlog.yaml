@@ -13,9 +13,135 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-02-24T17:46:24.862-06:00
-  initializedAtString: 2020-02-24T17:46:24.697-06:00
+  lastUpdatedAtString: 2020-02-24T18:29:07.201-06:00
+  initializedAtString: 2020-02-24T18:26:11.318-06:00
   log:
+  - commitID: ef237886ef1194790eb239d3eb2eee4f14e27450
+    mergeA: 690bda94c6c5baf50509a94a2d9879da7df702de
+    mergeB: cd25a3b1da73ef8dfc0e8a30646cb09eb8e93ffd
+    authorName: Eperez77
+    authorEmail: eperez77@uic.edu
+    commitEmail: eperez77@uic.edu
+    commitName: Eperez77
+    summary: Merge branch 'TEST-3' into MERGE-TEST2
+    description: 
+    timeString: 2020-02-24T18:10:50.000-06:00
+    commitTimeString: 2020-02-24T18:10:50.000-06:00
+    changes: []
+  - commitID: 690bda94c6c5baf50509a94a2d9879da7df702de
+    mergeA: ddd233c80c09a40d1f1502b67964ed1a174f44ad
+    mergeB: aa9b07003fb27c9fe4bdb507bd1ccb32b15efe9f
+    authorName: Eperez77
+    authorEmail: eperez77@uic.edu
+    commitEmail: eperez77@uic.edu
+    commitName: Eperez77
+    summary: Merge branch 'Adrian' into MERGE-TEST2
+    description: 
+    timeString: 2020-02-24T17:59:15.000-06:00
+    commitTimeString: 2020-02-24T17:59:15.000-06:00
+    changes: []
+  - commitID: cd25a3b1da73ef8dfc0e8a30646cb09eb8e93ffd
+    mergeA: 
+    mergeB: 
+    authorName: Eperez77
+    authorEmail: eperez77@uic.edu
+    commitEmail: eperez77@uic.edu
+    commitName: Eperez77
+    summary: arbitrary changes
+    description: above
+    timeString: 2020-02-24T17:56:49.000-06:00
+    commitTimeString: 2020-02-24T17:56:49.000-06:00
+    changes:
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Interaction.cs
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Interaction.cs
+      projectPath: Assets\Interaction.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\room_1-1_movement.unity
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\room_1-1_movement.unity
+      projectPath: Assets\room_1-1_movement.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\8f\8f9f2169327a43077e435af9f54b993a
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Artifacts\8f\8f9f2169327a43077e435af9f54b993a
+      projectPath: Library\Artifacts\8f\8f9f2169327a43077e435af9f54b993a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Collab\CollabSnapshot_babe1180-5f0d-4e70-bc4a-0c7b0c16db44.txt
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\Collab\CollabSnapshot_babe1180-5f0d-4e70-bc4a-0c7b0c16db44.txt
+      projectPath: Library\Collab\CollabSnapshot_babe1180-5f0d-4e70-bc4a-0c7b0c16db44.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\SourceAssetDB
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\StateCache\Hierarchy\b0114d-mainStage.json
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\StateCache\Hierarchy\b0114d-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\b0114d-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\StateCache\SceneView\e11065-mainStage.json
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\StateCache\SceneView\e11065-mainStage.json
+      projectPath: Library\StateCache\SceneView\e11065-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 8ec64996903d249cfd6ddfa5292392675c65b8b8
     mergeA: 
     mergeB: 
@@ -310,6 +436,120 @@ MonoBehaviour:
       projectPath: Library\gfu\cache\repoinfo.yaml
       originalPath: 
       indexStatus: 3
+      workTreeStatus: 0
+  - commitID: aa9b07003fb27c9fe4bdb507bd1ccb32b15efe9f
+    mergeA: 
+    mergeB: 
+    authorName: Adrian Zavala
+    authorEmail: 47799142+azaval9@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Add files via upload
+    description: 
+    timeString: 2020-02-24T17:13:30.000-06:00
+    commitTimeString: 2020-02-24T17:13:30.000-06:00
+    changes: []
+  - commitID: 369526d5c1a34bcc3ad5e574a9e99bb21adc7404
+    mergeA: 
+    mergeB: 
+    authorName: Adrian Zavala
+    authorEmail: 47799142+azaval9@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Animation and wall bug
+    description: 
+    timeString: 2020-02-24T17:11:17.000-06:00
+    commitTimeString: 2020-02-24T17:11:17.000-06:00
+    changes:
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player.meta
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player.meta
+      projectPath: Assets\Player.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\PlayerMovement.cs
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\PlayerMovement.cs
+      projectPath: Assets\PlayerMovement.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\room_1-1_movement.unity
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\room_1-1_movement.unity
+      projectPath: Assets\room_1-1_movement.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: b30e48d979da98e011e52aab0a07170a3280db1b
+    mergeA: 
+    mergeB: 
+    authorName: Adrian Zavala
+    authorEmail: adrianzavala42@gmail.com
+    commitEmail: adrianzavala42@gmail.com
+    commitName: Adrian Zavala
+    summary: Revert "Revert "Animation and Wall bug""
+    description: This reverts commit dae3da457edd5a5f116fdef50c364c6306240221.
+    timeString: 2020-02-24T17:02:03.000-06:00
+    commitTimeString: 2020-02-24T17:02:03.000-06:00
+    changes:
+    - path: .collabignore
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\.collabignore
+      projectPath: ..\..\..\.collabignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: ..\..\..\Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Assembly-CSharp.csproj
+      projectPath: ..\..\..\Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: InvadersOfTheVoid.sln
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\InvadersOfTheVoid.sln
+      projectPath: ..\..\..\InvadersOfTheVoid.sln
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: dae3da457edd5a5f116fdef50c364c6306240221
+    mergeA: 
+    mergeB: 
+    authorName: Adrian Zavala
+    authorEmail: adrianzavala42@gmail.com
+    commitEmail: adrianzavala42@gmail.com
+    commitName: Adrian Zavala
+    summary: Revert "Animation and Wall bug"
+    description: This reverts commit 5d276307a1aadcd2c5a51283d1bc65dc93415c84.
+    timeString: 2020-02-24T17:01:59.000-06:00
+    commitTimeString: 2020-02-24T17:01:59.000-06:00
+    changes:
+    - path: .collabignore
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\.collabignore
+      projectPath: ..\..\..\.collabignore
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: ..\..\..\Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Assembly-CSharp.csproj
+      projectPath: ..\..\..\Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: InvadersOfTheVoid.sln
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\InvadersOfTheVoid.sln
+      projectPath: ..\..\..\InvadersOfTheVoid.sln
+      originalPath: 
+      indexStatus: 5
       workTreeStatus: 0
   - commitID: ddd233c80c09a40d1f1502b67964ed1a174f44ad
     mergeA: 
@@ -1433,6 +1673,117 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 3
       workTreeStatus: 0
+  - commitID: 35751edd9eb553f34eefcbd1420255fbbc052f82
+    mergeA: 
+    mergeB: 
+    authorName: Adrian Zavala
+    authorEmail: 47799142+azaval9@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: See previous commit for information
+    description: See previous commit for information
+    timeString: 2020-02-24T09:59:38.000-06:00
+    commitTimeString: 2020-02-24T09:59:38.000-06:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\.gitignore
+      projectPath: ..\..\..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore.txt
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\.gitignore.txt
+      projectPath: ..\..\..\.gitignore.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: AdvGameEnvironmentScenario.pdf
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\AdvGameEnvironmentScenario.pdf
+      projectPath: ..\..\..\AdvGameEnvironmentScenario.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ReadMe.txt
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\ReadMe.txt
+      projectPath: ..\..\..\ReadMe.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Room1_1_Collision.unity
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Room1_1_Collision.unity
+      projectPath: ..\..\..\Room1_1_Collision.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Room1_1_Collision_Real.unity
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Room1_1_Collision_Real.unity
+      projectPath: ..\..\..\Room1_1_Collision_Real.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: group13PuzzlePlatformScenario1.pdf
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\group13PuzzlePlatformScenario1.pdf
+      projectPath: ..\..\..\group13PuzzlePlatformScenario1.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: room_1-1_movement.unity
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\room_1-1_movement.unity
+      projectPath: ..\..\..\room_1-1_movement.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 5d276307a1aadcd2c5a51283d1bc65dc93415c84
+    mergeA: 
+    mergeB: 
+    authorName: Adrian Zavala
+    authorEmail: 47799142+azaval9@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Animation and Wall bug
+    description: "Added some animations for the character when it idles, runs, and
+      jumps. It is a little buggy as the case-statements at times do not work and
+      change the animation early/late. \r\nCharacter no longer sticks to walls, and
+      will slide off when running against a wall."
+    timeString: 2020-02-24T09:58:09.000-06:00
+    commitTimeString: 2020-02-24T09:58:09.000-06:00
+    changes:
+    - path: .collabignore
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\.collabignore
+      projectPath: ..\..\..\.collabignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: ..\..\..\Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Assembly-CSharp.csproj
+      projectPath: ..\..\..\Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: InvadersOfTheVoid.sln
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\InvadersOfTheVoid.sln
+      projectPath: ..\..\..\InvadersOfTheVoid.sln
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: edc071af67884363c8f7aeafe1d08a90d6e39d48
+    mergeA: 76d53b0d8121cc43bc1df1bd6baa6b19dcd8b3d1
+    mergeB: e26bbda8c2f122631f29fbc62d906bc41324ded1
+    authorName: Adrian Zavala
+    authorEmail: 47799142+azaval9@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Merge pull request #1 from cs-440-at-uic/TEST-1
+    description: Pulling TEST-1 to Adrian
+    timeString: 2020-02-22T19:31:08.000-06:00
+    commitTimeString: 2020-02-22T19:31:08.000-06:00
+    changes: []
   - commitID: e26bbda8c2f122631f29fbc62d906bc41324ded1
     mergeA: 
     mergeB: 
@@ -6147,6 +6498,211 @@ MonoBehaviour:
       projectPath: ProjectSettings\TagManager.asset
       originalPath: 
       indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 76d53b0d8121cc43bc1df1bd6baa6b19dcd8b3d1
+    mergeA: 
+    mergeB: 
+    authorName: Eperez77
+    authorEmail: 55037444+Eperez77@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: delete file
+    description: delete file
+    timeString: 2020-02-21T16:16:34.000-06:00
+    commitTimeString: 2020-02-21T16:16:34.000-06:00
+    changes:
+    - path: scripts\file
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\scripts\file
+      projectPath: ..\..\..\scripts\file
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 8630e0a4e3d12bd796f639dca943b079a38f8a91
+    mergeA: 
+    mergeB: 
+    authorName: Eperez77
+    authorEmail: 55037444+Eperez77@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: delete file
+    description: delete file, was used to create script
+    timeString: 2020-02-21T16:16:00.000-06:00
+    commitTimeString: 2020-02-21T16:16:00.000-06:00
+    changes:
+    - path: Code\scripts\createFolder
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\scripts\createFolder
+      projectPath: ..\..\scripts\createFolder
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 0fcfd72127fd3f9f56a45d2093a371b10fe6a320
+    mergeA: 
+    mergeB: 
+    authorName: Eperez77
+    authorEmail: 55037444+Eperez77@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: scripts
+    description: Initial commit for scripts
+    timeString: 2020-02-21T16:14:51.000-06:00
+    commitTimeString: 2020-02-21T16:14:51.000-06:00
+    changes:
+    - path: Code\scripts\CharacterController2D.cs
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\scripts\CharacterController2D.cs
+      projectPath: ..\..\scripts\CharacterController2D.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Code\scripts\PlayerMovement.cs
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\scripts\PlayerMovement.cs
+      projectPath: ..\..\scripts\PlayerMovement.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: d9d4a3ae9b070c98112803f28c0e8c2ede41efe2
+    mergeA: 
+    mergeB: 
+    authorName: Eperez77
+    authorEmail: 55037444+Eperez77@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: create Folder
+    description: create Folder
+    timeString: 2020-02-21T16:14:08.000-06:00
+    commitTimeString: 2020-02-21T16:14:08.000-06:00
+    changes:
+    - path: Code\scripts\createFolder
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\scripts\createFolder
+      projectPath: ..\..\scripts\createFolder
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 12373b241ab4fe9c2765a125c652a33ee7a56f03
+    mergeA: 
+    mergeB: 
+    authorName: Eperez77
+    authorEmail: 55037444+Eperez77@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: File for creating folder
+    description: creating folder
+    timeString: 2020-02-21T16:12:30.000-06:00
+    commitTimeString: 2020-02-21T16:12:30.000-06:00
+    changes:
+    - path: scripts\file
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\scripts\file
+      projectPath: ..\..\..\scripts\file
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 11b7efea39bb10576cdb720b40e9d5d8a9a20848
+    mergeA: 
+    mergeB: 
+    authorName: Eperez77
+    authorEmail: 55037444+Eperez77@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Movement
+    description: Scene 1-1 with movement
+    timeString: 2020-02-21T16:02:27.000-06:00
+    commitTimeString: 2020-02-21T16:02:27.000-06:00
+    changes:
+    - path: Code\room_1-1_movement.unity
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\room_1-1_movement.unity
+      projectPath: ..\..\room_1-1_movement.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: c76bce596d25c56e108336fd3f23b7fc1523ef80
+    mergeA: 
+    mergeB: 
+    authorName: KaveeshaW
+    authorEmail: 47799209+KaveeshaW@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: updated the collision
+    description: This update lets the player fall down on the tilemap
+    timeString: 2020-02-21T14:33:14.000-06:00
+    commitTimeString: 2020-02-21T14:33:14.000-06:00
+    changes:
+    - path: Code\Room1_1_Collision_Real.unity
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\Room1_1_Collision_Real.unity
+      projectPath: ..\..\Room1_1_Collision_Real.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 4a2df46e337b933f3d2421bfeba7866c644aaaee
+    mergeA: 
+    mergeB: 
+    authorName: KaveeshaW
+    authorEmail: 47799209+KaveeshaW@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: updated the scene
+    description: the scene now shows the torch and door correctly
+    timeString: 2020-02-21T14:19:21.000-06:00
+    commitTimeString: 2020-02-21T14:19:21.000-06:00
+    changes:
+    - path: Code\Room1_1_Collision.unity
+      fullPath: C:\Users\perez\Documents\GitHub\Group-13-Spring-2020\Code\Room1_1_Collision.unity
+      projectPath: ..\..\Room1_1_Collision.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 954780e4127653aaca31c906b352cbd7b7dd815c
+    mergeA: 
+    mergeB: 
+    authorName: KaveeshaW
+    authorEmail: 47799209+KaveeshaW@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: new version of development project description powerpoint
+    description: 
+    timeString: 2020-02-16T23:31:03.000-06:00
+    commitTimeString: 2020-02-16T23:31:03.000-06:00
+    changes:
+    - path: "Develop\\Group13Teddy\u2019sBrochure  (1).ppsx"
+      fullPath: "C:\\Users\\perez\\Documents\\GitHub\\Group-13-Spring-2020\\Develop\\Group13Teddy\u2019sBrochure 
+        (1).ppsx"
+      projectPath: "..\\..\\..\\Develop\\Group13Teddy\u2019sBrochure  (1).ppsx"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 7665ac1829b795687bd7521820ed2ed08de5a34d
+    mergeA: 
+    mergeB: 
+    authorName: KaveeshaW
+    authorEmail: 47799209+KaveeshaW@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: wrong version of powerpoint
+    description: 
+    timeString: 2020-02-16T23:30:19.000-06:00
+    commitTimeString: 2020-02-16T23:30:19.000-06:00
+    changes:
+    - path: "Develop\\Group13Teddy\u2019sBrochure.pptx"
+      fullPath: "C:\\Users\\perez\\Documents\\GitHub\\Group-13-Spring-2020\\Develop\\Group13Teddy\u2019sBrochure.pptx"
+      projectPath: "..\\..\\..\\Develop\\Group13Teddy\u2019sBrochure.pptx"
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 6ecad4556ea8e54431ffbac395ed62e1e0a6a250
+    mergeA: 
+    mergeB: 
+    authorName: KaveeshaW
+    authorEmail: 47799209+KaveeshaW@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: PowerPointDevelopmentPart
+    description: 
+    timeString: 2020-02-16T23:16:26.000-06:00
+    commitTimeString: 2020-02-16T23:16:26.000-06:00
+    changes:
+    - path: "Develop\\Group13Teddy\u2019sBrochure.pptx"
+      fullPath: "C:\\Users\\perez\\Documents\\GitHub\\Group-13-Spring-2020\\Develop\\Group13Teddy\u2019sBrochure.pptx"
+      projectPath: "..\\..\\..\\Develop\\Group13Teddy\u2019sBrochure.pptx"
+      originalPath: 
+      indexStatus: 4
       workTreeStatus: 0
   - commitID: c3bb1611981459fc903741769321ee15f8083a53
     mergeA: 

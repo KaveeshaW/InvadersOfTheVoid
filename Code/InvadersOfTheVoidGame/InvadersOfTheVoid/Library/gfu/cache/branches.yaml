@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-02-24T17:46:22.557-06:00
-  initializedAtString: 2020-02-24T17:46:22.540-06:00
+  lastUpdatedAtString: 2020-02-24T18:26:54.719-06:00
+  initializedAtString: 2020-02-24T18:26:06.663-06:00
   localBranches:
   - name: Adrian
     tracking: origin/Adrian
@@ -26,6 +26,8 @@ MonoBehaviour:
     tracking: origin/MERGE-TEST
   - name: MERGE-TEST2
     tracking: origin/MERGE-TEST2
+  - name: MERGE-TEST3
+    tracking: origin/MERGE-TEST3
   - name: TEST-1
     tracking: origin/TEST-1
   - name: TEST-3
@@ -42,6 +44,8 @@ MonoBehaviour:
   - name: origin/master
     tracking: '[None]'
   - name: origin/MERGE-TEST2
+    tracking: '[None]'
+  - name: origin/MERGE-TEST3
     tracking: '[None]'
   - name: origin/TEST-1
     tracking: '[None]'
@@ -62,6 +66,7 @@ MonoBehaviour:
     - master
     - MERGE-TEST
     - MERGE-TEST2
+    - MERGE-TEST3
     - TEST-1
     - TEST-3
     values:
@@ -90,6 +95,11 @@ MonoBehaviour:
         name: origin
         url: https://github.com/cs-440-at-uic/Group-13-Spring-2020.git
       trackingBranch: MERGE-TEST2
+    - name: MERGE-TEST3
+      remote:
+        name: origin
+        url: https://github.com/cs-440-at-uic/Group-13-Spring-2020.git
+      trackingBranch: MERGE-TEST3
     - name: TEST-1
       remote:
         name: origin
@@ -111,6 +121,7 @@ MonoBehaviour:
       - Kaveesha
       - master
       - MERGE-TEST2
+      - MERGE-TEST3
       - TEST-1
       - TEST-3
     subKeyValues:
@@ -141,6 +152,11 @@ MonoBehaviour:
           url: https://github.com/cs-440-at-uic/Group-13-Spring-2020.git
         trackingBranch: 
       - name: MERGE-TEST2
+        remote:
+          name: origin
+          url: https://github.com/cs-440-at-uic/Group-13-Spring-2020.git
+        trackingBranch: 
+      - name: MERGE-TEST3
         remote:
           name: origin
           url: https://github.com/cs-440-at-uic/Group-13-Spring-2020.git

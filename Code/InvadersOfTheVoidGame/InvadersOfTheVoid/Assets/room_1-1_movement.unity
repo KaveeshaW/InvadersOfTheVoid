@@ -527,9 +527,9 @@ GameObject:
   - component: {fileID: 613846343}
   - component: {fileID: 613846336}
   - component: {fileID: 613846339}
-  - component: {fileID: 613846340}
   - component: {fileID: 613846342}
   - component: {fileID: 613846344}
+  - component: {fileID: 613846340}
   m_Layer: 8
   m_Name: player
   m_TagString: player
@@ -675,7 +675,7 @@ MonoBehaviour:
   OnLandEvent:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 613846340}
+      - m_Target: {fileID: 0}
         m_MethodName: PlayerLanding
         m_Mode: 1
         m_Arguments:
@@ -703,7 +703,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   controller: {fileID: 613846339}
   animator: {fileID: 613846344}
-  runSpeed: 20
+  runSpeed: 10
 --- !u!114 &613846342
 MonoBehaviour:
   m_ObjectHideFlags: 0

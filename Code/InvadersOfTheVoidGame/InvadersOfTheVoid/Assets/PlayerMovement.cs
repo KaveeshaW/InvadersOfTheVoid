@@ -6,7 +6,7 @@ public class PlayerMovement : MonoBehaviour
 {
 
     public CharacterController2D controller;
-    public Animator animator; 
+    public Animator animator;
 
     public float runSpeed = 10f;
     bool jump = false;
@@ -29,7 +29,7 @@ public class PlayerMovement : MonoBehaviour
         {
             animator.SetBool("playerJumping", true); //change character animation in animator
             jump = true;
-            
+
 
         }
 
@@ -52,7 +52,7 @@ public class PlayerMovement : MonoBehaviour
     }
 
 
-    void FixedUpdate ()
+    void FixedUpdate()
     {
         //Move our character
         controller.Move(horizontalMove * Time.fixedDeltaTime, false, jump);
