@@ -27,7 +27,7 @@ public class PlayerMovement : MonoBehaviour
         //Player is jumping
         if (Input.GetButtonDown("Jump"))
         {
-            animator.SetBool("playerJumping", true); //change character animation in animator
+            animator.SetBool("Jumping", true); //change character animation in animator
             jump = true;
             
 
@@ -48,7 +48,7 @@ public class PlayerMovement : MonoBehaviour
     //Change animation of the character when the player lands
     public void PlayerLanding()
     {
-        animator.SetBool("playerJumping", false);
+        animator.SetBool("Jumping", false);
     }
 
 
