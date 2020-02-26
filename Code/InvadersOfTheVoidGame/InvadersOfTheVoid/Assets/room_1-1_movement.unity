@@ -514,8 +514,8 @@ GameObject:
   - component: {fileID: 613846343}
   - component: {fileID: 613846339}
   - component: {fileID: 613846340}
-  - component: {fileID: 613846342}
   - component: {fileID: 613846337}
+  - component: {fileID: 613846341}
   m_Layer: 8
   m_Name: player
   m_TagString: Untagged
@@ -551,7 +551,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 1
-  m_Mass: 0.78340256
+  m_Mass: 0.934454
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
@@ -685,18 +685,6 @@ MonoBehaviour:
   runSpeed: 30
 --- !u!114 &613846341
 MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 613846334}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7f37531e3fc98bf47a67012316b4bf7f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!58 &613846343
-CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -933,7 +921,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1337580036}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: PlayerTiki
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
