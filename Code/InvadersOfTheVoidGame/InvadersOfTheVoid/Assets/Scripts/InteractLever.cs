@@ -58,14 +58,9 @@ public class InteractLever : MonoBehaviour
             movableLadder.transform.position = new Vector3(6.481f, -8.16f, 0.0f);
 
             //exposes key if it isn't in inventory
-            key.transform.position = new Vector3(-4.4f, -4.65f, 0f);
+            key.transform.position = new Vector3(-4.4f, -4f, 0f);
             chestRend = chest.GetComponent<SpriteRenderer>();
             chestRend.sprite = chestOpen;
-
-
-
-
-
 
             //this.GetComponent<SpriteRenderer>().sprite = mySprite;
 
