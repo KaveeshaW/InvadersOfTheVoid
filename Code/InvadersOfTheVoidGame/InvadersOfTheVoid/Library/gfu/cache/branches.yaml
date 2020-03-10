@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-02-26T19:46:18.541-06:00
-  initializedAtString: 2020-02-26T19:46:18.481-06:00
+  lastUpdatedAtString: 2020-03-10T17:30:33.897-05:00
+  initializedAtString: 2020-03-10T17:30:33.837-05:00
   localBranches:
   - name: Adrian
     tracking: origin/Adrian
@@ -24,12 +24,18 @@ MonoBehaviour:
     tracking: origin/master
   - name: TEST-3-2
     tracking: origin/TEST-3-2
+  - name: TEST-5
+    tracking: origin/TEST-5
   remoteBranches:
   - name: origin/Adrian
     tracking: '[None]'
   - name: origin/HEAD
     tracking: '[None]'
+  - name: origin/master
+    tracking: '[None]'
   - name: origin/TEST-3-2
+    tracking: '[None]'
+  - name: origin/TEST-5
     tracking: '[None]'
   remotes:
   - name: origin
@@ -45,6 +51,7 @@ MonoBehaviour:
     - Cecilia
     - master
     - TEST-3-2
+    - TEST-5
     values:
     - name: Adrian
       remote:
@@ -66,6 +73,11 @@ MonoBehaviour:
         name: origin
         url: https://github.com/cs-440-at-uic/Group-13-Spring-2020.git
       trackingBranch: TEST-3-2
+    - name: TEST-5
+      remote:
+        name: origin
+        url: https://github.com/cs-440-at-uic/Group-13-Spring-2020.git
+      trackingBranch: TEST-5
   remoteConfigBranches:
     keys:
     - origin
@@ -73,7 +85,9 @@ MonoBehaviour:
     - Values:
       - Adrian
       - HEAD
+      - master
       - TEST-3-2
+      - TEST-5
     subKeyValues:
     - Values:
       - name: Adrian
@@ -86,7 +100,17 @@ MonoBehaviour:
           name: origin
           url: https://github.com/cs-440-at-uic/Group-13-Spring-2020.git
         trackingBranch: 
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/cs-440-at-uic/Group-13-Spring-2020.git
+        trackingBranch: 
       - name: TEST-3-2
+        remote:
+          name: origin
+          url: https://github.com/cs-440-at-uic/Group-13-Spring-2020.git
+        trackingBranch: 
+      - name: TEST-5
         remote:
           name: origin
           url: https://github.com/cs-440-at-uic/Group-13-Spring-2020.git
