@@ -8,7 +8,6 @@ public class movingPlatform : MonoBehaviour
     bool moveRight = true;
     
     void Update () {
-        //I want it to move more to the right because it doesn't go that far otherwise
         if(transform.position.x > 7.5f) {
             moveRight = false;
         }
@@ -20,19 +19,6 @@ public class movingPlatform : MonoBehaviour
         }
         else {
             transform.position = new Vector2(transform.position.x - moveSpeed * Time.deltaTime, transform.position.y);
-        }
-    }
-
-    //when the player jumps on the moving platform, the player is now part of the platform
-    private void OnCollisionEnter2D(Collision2D col) {
-        if(col.transform.CompareTag("player")) {
-            col.collider.transform.SetParent(transform);
-        }
-    }
-    //when the player decides to move, they can
-    private void OnCollisionExit2D(Collision2D col) {
-        if(col.transform.CompareTag("player")) {
-            col.collider.transform.SetParent(null);
         }
     }
 }
