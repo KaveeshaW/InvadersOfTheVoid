@@ -13,1078 +13,678 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-03-10T17:33:29.122-05:00
+  lastUpdatedAtString: 2020-03-10T20:29:46.843-05:00
   initializedAtString: 2020-03-10T17:16:41.434-05:00
   entries:
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack.meta
-    projectPath: Assets\Free Pixel Space Platform Pack.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
       Pack\Astronaut.meta
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
       Pixel Space Platform Pack\Astronaut.meta
     projectPath: Assets\Free Pixel Space Platform Pack\Astronaut.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
       Pack\Astronaut\AstroJump.png
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
       Pixel Space Platform Pack\Astronaut\AstroJump.png
     projectPath: Assets\Free Pixel Space Platform Pack\Astronaut\AstroJump.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
       Pack\Astronaut\AstroJump.png.meta
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
       Pixel Space Platform Pack\Astronaut\AstroJump.png.meta
     projectPath: Assets\Free Pixel Space Platform Pack\Astronaut\AstroJump.png.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
       Pack\Astronaut\AstroJump_0.controller
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
       Pixel Space Platform Pack\Astronaut\AstroJump_0.controller
     projectPath: Assets\Free Pixel Space Platform Pack\Astronaut\AstroJump_0.controller
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
       Pack\Astronaut\AstroJump_0.controller.meta
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
       Pixel Space Platform Pack\Astronaut\AstroJump_0.controller.meta
     projectPath: Assets\Free Pixel Space Platform Pack\Astronaut\AstroJump_0.controller.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
       Pack\Astronaut\AstroLadder.png
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
       Pixel Space Platform Pack\Astronaut\AstroLadder.png
     projectPath: Assets\Free Pixel Space Platform Pack\Astronaut\AstroLadder.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
       Pack\Astronaut\AstroLadder.png.meta
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
       Pixel Space Platform Pack\Astronaut\AstroLadder.png.meta
     projectPath: Assets\Free Pixel Space Platform Pack\Astronaut\AstroLadder.png.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
       Pack\Astronaut\AstroLadder_0.controller
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
       Pixel Space Platform Pack\Astronaut\AstroLadder_0.controller
     projectPath: Assets\Free Pixel Space Platform Pack\Astronaut\AstroLadder_0.controller
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
       Pack\Astronaut\AstroLadder_0.controller.meta
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
       Pixel Space Platform Pack\Astronaut\AstroLadder_0.controller.meta
     projectPath: Assets\Free Pixel Space Platform Pack\Astronaut\AstroLadder_0.controller.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
       Pack\Astronaut\AstroStay.png
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
       Pixel Space Platform Pack\Astronaut\AstroStay.png
     projectPath: Assets\Free Pixel Space Platform Pack\Astronaut\AstroStay.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
       Pack\Astronaut\AstroStay.png.meta
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
       Pixel Space Platform Pack\Astronaut\AstroStay.png.meta
     projectPath: Assets\Free Pixel Space Platform Pack\Astronaut\AstroStay.png.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
       Pack\Astronaut\AstroWalk.png
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
       Pixel Space Platform Pack\Astronaut\AstroWalk.png
     projectPath: Assets\Free Pixel Space Platform Pack\Astronaut\AstroWalk.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
       Pack\Astronaut\AstroWalk.png.meta
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
       Pixel Space Platform Pack\Astronaut\AstroWalk.png.meta
     projectPath: Assets\Free Pixel Space Platform Pack\Astronaut\AstroWalk.png.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
       Pack\Astronaut\AstroWalk_0.controller
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
       Pixel Space Platform Pack\Astronaut\AstroWalk_0.controller
     projectPath: Assets\Free Pixel Space Platform Pack\Astronaut\AstroWalk_0.controller
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
       Pack\Astronaut\AstroWalk_0.controller.meta
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
       Pixel Space Platform Pack\Astronaut\AstroWalk_0.controller.meta
     projectPath: Assets\Free Pixel Space Platform Pack\Astronaut\AstroWalk_0.controller.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
       Pack\Astronaut\Jump.anim
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
       Pixel Space Platform Pack\Astronaut\Jump.anim
     projectPath: Assets\Free Pixel Space Platform Pack\Astronaut\Jump.anim
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
       Pack\Astronaut\Jump.anim.meta
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
       Pixel Space Platform Pack\Astronaut\Jump.anim.meta
     projectPath: Assets\Free Pixel Space Platform Pack\Astronaut\Jump.anim.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
       Pack\Astronaut\LadderUp.anim
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
       Pixel Space Platform Pack\Astronaut\LadderUp.anim
     projectPath: Assets\Free Pixel Space Platform Pack\Astronaut\LadderUp.anim
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
       Pack\Astronaut\LadderUp.anim.meta
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
       Pixel Space Platform Pack\Astronaut\LadderUp.anim.meta
     projectPath: Assets\Free Pixel Space Platform Pack\Astronaut\LadderUp.anim.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
       Pack\Astronaut\Walk.anim
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
       Pixel Space Platform Pack\Astronaut\Walk.anim
     projectPath: Assets\Free Pixel Space Platform Pack\Astronaut\Walk.anim
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
       Pack\Astronaut\Walk.anim.meta
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
       Pixel Space Platform Pack\Astronaut\Walk.anim.meta
     projectPath: Assets\Free Pixel Space Platform Pack\Astronaut\Walk.anim.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Background.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Background.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Background.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Background\SpaceBackGround.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Background\SpaceBackGround.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Background\SpaceBackGround.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Background\SpaceBackGround.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Background\SpaceBackGround.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Background\SpaceBackGround.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Boxes.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Boxes.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Boxes.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Boxes\Box_01.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Boxes\Box_01.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Boxes\Box_01.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Boxes\Box_01.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Boxes\Box_01.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Boxes\Box_01.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Boxes\Box_02.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Boxes\Box_02.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Boxes\Box_02.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Boxes\Box_02.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Boxes\Box_02.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Boxes\Box_02.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Crystals.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Crystals.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Crystals.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Crystals\Crystal_01.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Crystals\Crystal_01.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Crystals\Crystal_01.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Crystals\Crystal_01.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Crystals\Crystal_01.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Crystals\Crystal_01.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Crystals\Crystal_02.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Crystals\Crystal_02.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Crystals\Crystal_02.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Crystals\Crystal_02.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Crystals\Crystal_02.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Crystals\Crystal_02.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Crystals\Crystal_03.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Crystals\Crystal_03.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Crystals\Crystal_03.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Crystals\Crystal_03.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Crystals\Crystal_03.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Crystals\Crystal_03.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Ladders.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Ladders.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Ladders.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Ladders\Ladder_01.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Ladders\Ladder_01.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Ladders\Ladder_01.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Ladders\Ladder_01.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Ladders\Ladder_01.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Ladders\Ladder_01.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Ladders\Ladder_02.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Ladders\Ladder_02.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Ladders\Ladder_02.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Ladders\Ladder_02.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Ladders\Ladder_02.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Ladders\Ladder_02.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Lever.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Lever.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Lever.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Lever\LeverDown.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Lever\LeverDown.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Lever\LeverDown.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Lever\LeverDown.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Lever\LeverDown.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Lever\LeverDown.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Lever\LeverUp.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Lever\LeverUp.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Lever\LeverUp.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Lever\LeverUp.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Lever\LeverUp.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Lever\LeverUp.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\GrassDown_01.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\GrassDown_01.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\GrassDown_01.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\GrassDown_01.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\GrassDown_01.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\GrassDown_01.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\GrassDown_02.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\GrassDown_02.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\GrassDown_02.png
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes.meta
+    projectPath: Assets\Palettes.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\GrassDown_02.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\GrassDown_02.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\GrassDown_02.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette.meta
+    projectPath: Assets\Palettes\SpacePalette.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\GrassUp.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\GrassUp.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\GrassUp.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette.prefab
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette.prefab
+    projectPath: Assets\Palettes\SpacePalette.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\GrassUp.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\GrassUp.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\GrassUp.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette.prefab.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette.prefab.meta
+    projectPath: Assets\Palettes\SpacePalette.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\GreenBush.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\GreenBush.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\GreenBush.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Box_01.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Box_01.asset
+    projectPath: Assets\Palettes\SpacePalette\Box_01.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\GreenBush.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\GreenBush.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\GreenBush.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Box_01.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Box_01.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\Box_01.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\GreenTree_01.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\GreenTree_01.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\GreenTree_01.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Box_02.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Box_02.asset
+    projectPath: Assets\Palettes\SpacePalette\Box_02.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\GreenTree_01.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\GreenTree_01.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\GreenTree_01.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Box_02.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Box_02.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\Box_02.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\GreenTree_02.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\GreenTree_02.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\GreenTree_02.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\LeftSteps.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\LeftSteps.asset
+    projectPath: Assets\Palettes\SpacePalette\LeftSteps.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\GreenTree_02.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\GreenTree_02.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\GreenTree_02.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\LeftSteps.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\LeftSteps.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\LeftSteps.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\GreenTree_03.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\GreenTree_03.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\GreenTree_03.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Platform_01.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Platform_01.asset
+    projectPath: Assets\Palettes\SpacePalette\Platform_01.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\GreenTree_03.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\GreenTree_03.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\GreenTree_03.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Platform_01.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Platform_01.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\Platform_01.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\VioletMushroom_01.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\VioletMushroom_01.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\VioletMushroom_01.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Platform_02.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Platform_02.asset
+    projectPath: Assets\Palettes\SpacePalette\Platform_02.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\VioletMushroom_01.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\VioletMushroom_01.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\VioletMushroom_01.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Platform_02.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Platform_02.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\Platform_02.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\VioletMushroom_02.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\VioletMushroom_02.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\VioletMushroom_02.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\RightSteps.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\RightSteps.asset
+    projectPath: Assets\Palettes\SpacePalette\RightSteps.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\VioletMushroom_02.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\VioletMushroom_02.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\VioletMushroom_02.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\RightSteps.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\RightSteps.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\RightSteps.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\VioletTree_01.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\VioletTree_01.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\VioletTree_01.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Spike_01.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Spike_01.asset
+    projectPath: Assets\Palettes\SpacePalette\Spike_01.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\VioletTree_01.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\VioletTree_01.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\VioletTree_01.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Spike_01.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Spike_01.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\Spike_01.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\VioletTree_02.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\VioletTree_02.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\VioletTree_02.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Spike_02.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Spike_02.asset
+    projectPath: Assets\Palettes\SpacePalette\Spike_02.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\VioletTree_02.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\VioletTree_02.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\VioletTree_02.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Spike_02.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Spike_02.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\Spike_02.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\VioletTree_03.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\VioletTree_03.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\VioletTree_03.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Spike_03.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Spike_03.asset
+    projectPath: Assets\Palettes\SpacePalette\Spike_03.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Plants\VioletTree_03.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Plants\VioletTree_03.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Plants\VioletTree_03.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Spike_03.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Spike_03.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\Spike_03.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Platforms.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Platforms.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Platforms.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Spike_04.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Spike_04.asset
+    projectPath: Assets\Palettes\SpacePalette\Spike_04.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Platforms\Platform_01.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Platforms\Platform_01.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Platforms\Platform_01.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Spike_04.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Spike_04.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\Spike_04.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Platforms\Platform_01.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Platforms\Platform_01.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Platforms\Platform_01.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Spike_05.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Spike_05.asset
+    projectPath: Assets\Palettes\SpacePalette\Spike_05.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Platforms\Platform_02.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Platforms\Platform_02.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Platforms\Platform_02.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Spike_05.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\Spike_05.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\Spike_05.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Platforms\Platform_02.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Platforms\Platform_02.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Platforms\Platform_02.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileBack.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileBack.asset
+    projectPath: Assets\Palettes\SpacePalette\TileBack.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Portal.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Portal.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Portal.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileBack.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileBack.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\TileBack.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Portal\PortalOff.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Portal\PortalOff.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Portal\PortalOff.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileDown.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileDown.asset
+    projectPath: Assets\Palettes\SpacePalette\TileDown.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Portal\PortalOff.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Portal\PortalOff.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Portal\PortalOff.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileDown.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileDown.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\TileDown.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Portal\PortalOn.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Portal\PortalOn.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Portal\PortalOn.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileForward.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileForward.asset
+    projectPath: Assets\Palettes\SpacePalette\TileForward.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Portal\PortalOn.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Portal\PortalOn.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Portal\PortalOn.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileForward.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileForward.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\TileForward.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Scene.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Scene.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Scene.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileFull.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileFull.asset
+    projectPath: Assets\Palettes\SpacePalette\TileFull.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Scene\Demo.unity
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Scene\Demo.unity
-    projectPath: Assets\Free Pixel Space Platform Pack\Scene\Demo.unity
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileFull.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileFull.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\TileFull.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Scene\Demo.unity.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Scene\Demo.unity.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Scene\Demo.unity.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileLeft.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileLeft.asset
+    projectPath: Assets\Palettes\SpacePalette\TileLeft.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Spikes.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Spikes.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Spikes.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileLeft.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileLeft.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\TileLeft.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Spikes\Spike_01.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Spikes\Spike_01.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Spikes\Spike_01.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileLeftDown.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileLeftDown.asset
+    projectPath: Assets\Palettes\SpacePalette\TileLeftDown.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Spikes\Spike_01.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Spikes\Spike_01.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Spikes\Spike_01.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileLeftDown.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileLeftDown.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\TileLeftDown.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Spikes\Spike_02.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Spikes\Spike_02.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Spikes\Spike_02.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileLeftRight.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileLeftRight.asset
+    projectPath: Assets\Palettes\SpacePalette\TileLeftRight.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Spikes\Spike_02.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Spikes\Spike_02.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Spikes\Spike_02.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileLeftRight.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileLeftRight.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\TileLeftRight.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Spikes\Spike_03.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Spikes\Spike_03.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Spikes\Spike_03.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileLeftUp.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileLeftUp.asset
+    projectPath: Assets\Palettes\SpacePalette\TileLeftUp.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Spikes\Spike_03.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Spikes\Spike_03.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Spikes\Spike_03.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileLeftUp.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileLeftUp.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\TileLeftUp.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Spikes\Spike_04.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Spikes\Spike_04.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Spikes\Spike_04.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileRight.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileRight.asset
+    projectPath: Assets\Palettes\SpacePalette\TileRight.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Spikes\Spike_04.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Spikes\Spike_04.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Spikes\Spike_04.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileRight.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileRight.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\TileRight.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Spikes\Spike_05.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Spikes\Spike_05.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Spikes\Spike_05.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileRightDown.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileRightDown.asset
+    projectPath: Assets\Palettes\SpacePalette\TileRightDown.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Spikes\Spike_05.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Spikes\Spike_05.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Spikes\Spike_05.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileRightDown.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileRightDown.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\TileRightDown.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Stones.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Stones.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Stones.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileUp.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileUp.asset
+    projectPath: Assets\Palettes\SpacePalette\TileUp.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Stones\Stone_01.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Stones\Stone_01.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Stones\Stone_01.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileUp.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileUp.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\TileUp.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Stones\Stone_01.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Stones\Stone_01.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Stones\Stone_01.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileUpDown.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileUpDown.asset
+    projectPath: Assets\Palettes\SpacePalette\TileUpDown.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Stones\Stone_02.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Stones\Stone_02.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Stones\Stone_02.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileUpDown.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileUpDown.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\TileUpDown.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Stones\Stone_02.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Stones\Stone_02.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Stones\Stone_02.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileUpRight.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileUpRight.asset
+    projectPath: Assets\Palettes\SpacePalette\TileUpRight.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Stones\Stone_03.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Stones\Stone_03.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Stones\Stone_03.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileUpRight.asset.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Palettes\SpacePalette\TileUpRight.asset.meta
+    projectPath: Assets\Palettes\SpacePalette\TileUpRight.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Stones\Stone_03.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Stones\Stone_03.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Stones\Stone_03.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Pictures\gas_can.png
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Pictures\gas_can.png
+    projectPath: Assets\Pictures\gas_can.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Pictures\gas_can.png.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Pictures\gas_can.png.meta
+    projectPath: Assets\Pictures\gas_can.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\LeftSteps.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\LeftSteps.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\LeftSteps.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut.meta
+    projectPath: Assets\Player\Animations\Astronaut.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\LeftSteps.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\LeftSteps.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\LeftSteps.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroJump.png
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroJump.png
+    projectPath: Assets\Player\Animations\Astronaut\AstroJump.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\RightSteps.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\RightSteps.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\RightSteps.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroJump.png.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroJump.png.meta
+    projectPath: Assets\Player\Animations\Astronaut\AstroJump.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\RightSteps.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\RightSteps.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\RightSteps.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroJump_0.controller
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroJump_0.controller
+    projectPath: Assets\Player\Animations\Astronaut\AstroJump_0.controller
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileBack.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileBack.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileBack.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroJump_0.controller.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroJump_0.controller.meta
+    projectPath: Assets\Player\Animations\Astronaut\AstroJump_0.controller.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileBack.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileBack.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileBack.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroLadder.png
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroLadder.png
+    projectPath: Assets\Player\Animations\Astronaut\AstroLadder.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileDown.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileDown.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileDown.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroLadder.png.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroLadder.png.meta
+    projectPath: Assets\Player\Animations\Astronaut\AstroLadder.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileDown.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileDown.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileDown.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroLadder_0.controller
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroLadder_0.controller
+    projectPath: Assets\Player\Animations\Astronaut\AstroLadder_0.controller
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileForward.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileForward.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileForward.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroLadder_0.controller.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroLadder_0.controller.meta
+    projectPath: Assets\Player\Animations\Astronaut\AstroLadder_0.controller.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileForward.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileForward.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileForward.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\Astronaut.controller
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\Astronaut.controller
+    projectPath: Assets\Player\Animations\Astronaut\Astronaut.controller
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileFull.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileFull.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileFull.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\Astronaut.controller.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\Astronaut.controller.meta
+    projectPath: Assets\Player\Animations\Astronaut\Astronaut.controller.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileFull.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileFull.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileFull.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroStay.png
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroStay.png
+    projectPath: Assets\Player\Animations\Astronaut\AstroStay.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileLeft.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileLeft.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileLeft.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroStay.png.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroStay.png.meta
+    projectPath: Assets\Player\Animations\Astronaut\AstroStay.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileLeft.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileLeft.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileLeft.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroWalk.png
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroWalk.png
+    projectPath: Assets\Player\Animations\Astronaut\AstroWalk.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileLeftDown.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileLeftDown.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileLeftDown.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroWalk.png.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroWalk.png.meta
+    projectPath: Assets\Player\Animations\Astronaut\AstroWalk.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileLeftDown.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileLeftDown.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileLeftDown.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroWalk_0.controller
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroWalk_0.controller
+    projectPath: Assets\Player\Animations\Astronaut\AstroWalk_0.controller
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileLeftRight.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileLeftRight.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileLeftRight.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroWalk_0.controller.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\AstroWalk_0.controller.meta
+    projectPath: Assets\Player\Animations\Astronaut\AstroWalk_0.controller.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileLeftRight.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileLeftRight.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileLeftRight.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\Idle.anim
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\Idle.anim
+    projectPath: Assets\Player\Animations\Astronaut\Idle.anim
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileLeftUp.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileLeftUp.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileLeftUp.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\Idle.anim.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\Idle.anim.meta
+    projectPath: Assets\Player\Animations\Astronaut\Idle.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileLeftUp.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileLeftUp.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileLeftUp.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\Jump.anim
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\Jump.anim
+    projectPath: Assets\Player\Animations\Astronaut\Jump.anim
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileRight.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileRight.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileRight.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\Jump.anim.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\Jump.anim.meta
+    projectPath: Assets\Player\Animations\Astronaut\Jump.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileRight.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileRight.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileRight.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\LadderUp.anim
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\LadderUp.anim
+    projectPath: Assets\Player\Animations\Astronaut\LadderUp.anim
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileRightDown.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileRightDown.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileRightDown.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\LadderUp.anim.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\LadderUp.anim.meta
+    projectPath: Assets\Player\Animations\Astronaut\LadderUp.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileRightDown.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileRightDown.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileRightDown.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\Walk.anim
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\Walk.anim
+    projectPath: Assets\Player\Animations\Astronaut\Walk.anim
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileUp.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileUp.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileUp.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\Walk.anim.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Player\Animations\Astronaut\Walk.anim.meta
+    projectPath: Assets\Player\Animations\Astronaut\Walk.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileUp.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileUp.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileUp.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\PreFabs.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\PreFabs.meta
+    projectPath: Assets\PreFabs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileUpDown.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileUpDown.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileUpDown.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\PreFabs\gas_can.prefab
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\PreFabs\gas_can.prefab
+    projectPath: Assets\PreFabs\gas_can.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileUpDown.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileUpDown.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileUpDown.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\PreFabs\gas_can.prefab.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\PreFabs\gas_can.prefab.meta
+    projectPath: Assets\PreFabs\gas_can.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileUpRight.png
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileUpRight.png
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileUpRight.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scenes\Adrian.unity
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scenes\Adrian.unity
+    projectPath: Assets\Scenes\Adrian.unity
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free Pixel Space Platform
-      Pack\Tiles\TileUpRight.png.meta
-    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Free
-      Pixel Space Platform Pack\Tiles\TileUpRight.png.meta
-    projectPath: Assets\Free Pixel Space Platform Pack\Tiles\TileUpRight.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scenes\Adrian.unity.meta
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scenes\Adrian.unity.meta
+    projectPath: Assets\Scenes\Adrian.unity.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1100,6 +700,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
@@ -1109,6 +715,24 @@ MonoBehaviour:
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+    projectPath: Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\Dre\Documents\GitHub\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
