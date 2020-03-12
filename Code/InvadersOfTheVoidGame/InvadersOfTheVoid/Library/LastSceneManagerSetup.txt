@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Adrian.unity
+- path: Assets/Scenes/Kaveesha.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
