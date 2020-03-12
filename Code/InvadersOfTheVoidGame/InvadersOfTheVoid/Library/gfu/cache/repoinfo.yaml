@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-03-10T17:16:33.414-05:00
-  initializedAtString: 2020-03-10T17:16:33.414-05:00
+  lastUpdatedAtString: 2020-02-26T22:57:23.873-06:00
+  initializedAtString: 2020-02-26T22:57:23.873-06:00
   currentGitRemote:
     name: origin
     url: https://github.com/cs-440-at-uic/Group-13-Spring-2020.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: TEST-5
-    tracking: origin/TEST-5
+    name: TEST-3-2
+    tracking: origin/TEST-3-2
   currentConfigBranch:
-    name: TEST-5
+    name: TEST-3-2
     remote:
       name: origin
       url: https://github.com/cs-440-at-uic/Group-13-Spring-2020.git
-    trackingBranch: TEST-5
+    trackingBranch: TEST-3-2
   currentConfigRemote:
     name: origin
     url: https://github.com/cs-440-at-uic/Group-13-Spring-2020.git
