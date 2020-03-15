@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-03-14T16:08:02.635-05:00
-  initializedAtString: 2020-03-14T16:08:02.635-05:00
+  lastUpdatedAtString: 2020-03-14T16:17:57.578-05:00
+  initializedAtString: 2020-03-14T16:17:57.578-05:00
   currentGitRemote:
     name: origin
     url: https://github.com/cs-440-at-uic/Group-13-Spring-2020.git
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: kaveeshaCurrent-
-    tracking: 
+    tracking: origin/kaveeshaCurrent-
   currentConfigBranch:
     name: kaveeshaCurrent-
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/cs-440-at-uic/Group-13-Spring-2020.git
+    trackingBranch: kaveeshaCurrent-
   currentConfigRemote:
     name: origin
     url: https://github.com/cs-440-at-uic/Group-13-Spring-2020.git
