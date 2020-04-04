@@ -13,114 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-04-04T18:25:31.341-05:00
-  initializedAtString: 2020-04-04T18:09:09.548-05:00
+  lastUpdatedAtString: 2020-04-04T18:26:46.698-05:00
+  initializedAtString: 2020-04-04T18:26:46.698-05:00
   entries:
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\HealthBar.meta
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\HealthBar.meta
-    projectPath: Assets\HealthBar.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\HealthBar\Bar.png
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\HealthBar\Bar.png
-    projectPath: Assets\HealthBar\Bar.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\HealthBar\Bar.png.meta
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\HealthBar\Bar.png.meta
-    projectPath: Assets\HealthBar\Bar.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\HealthBar\Heart.png
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\HealthBar\Heart.png
-    projectPath: Assets\HealthBar\Heart.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\HealthBar\Heart.png.meta
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\HealthBar\Heart.png.meta
-    projectPath: Assets\HealthBar\Heart.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scenes\kaveesha.unity
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scenes\kaveesha.unity
-    projectPath: Assets\Scenes\kaveesha.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\HealthBar.cs
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\HealthBar.cs
-    projectPath: Assets\Scripts\HealthBar.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\HealthBar.cs.meta
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\HealthBar.cs.meta
-    projectPath: Assets\Scripts\HealthBar.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\PlayerHealth.cs
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\PlayerHealth.cs
-    projectPath: Assets\Scripts\PlayerHealth.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\PlayerHealth.cs.meta
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\PlayerHealth.cs.meta
-    projectPath: Assets\Scripts\PlayerHealth.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ArtifactDB
     fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ArtifactDB
     projectPath: Library\ArtifactDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\gittrackingstatus.yaml
-    projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\InspectorExpandedItems.asset
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -133,18 +31,6 @@ MonoBehaviour:
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\SourceAssetDB
     fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\StateCache\Hierarchy\b0114d-mainStage.json
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\StateCache\Hierarchy\b0114d-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\b0114d-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\StateCache\SceneView\e11065-mainStage.json
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\StateCache\SceneView\e11065-mainStage.json
-    projectPath: Library\StateCache\SceneView\e11065-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
