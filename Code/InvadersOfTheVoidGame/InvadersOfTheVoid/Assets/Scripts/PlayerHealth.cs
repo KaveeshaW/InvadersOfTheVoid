@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class playerHealth : MonoBehaviour
+public class PlayerHealth : MonoBehaviour
 {
 
 	public int maxHealth = 100;
@@ -20,20 +20,20 @@ public class playerHealth : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-		// if (Input.GetKeyDown(KeyCode.Space))
-		// {
-		// 	TakeDamage(20);
-		// }
+		if (Input.GetKeyDown(KeyCode.Space))
+		{
+			TakeDamage(20);
+		}
         
     }
 
-    private void OnCollisionEnter2D(Collision2D col)
-    {
-        if(col.transform.CompareTag("enemy"))
-        {
-            TakeDamage(10);
-        }
-    }
+    // private void OnCollisionEnter2D(Collision2D col)
+    // {
+    //     if(col.transform.CompareTag("enemy"))
+    //     {
+    //         TakeDamage(10);
+    //     }
+    // }
 
 	void TakeDamage(int damage)
 	{
