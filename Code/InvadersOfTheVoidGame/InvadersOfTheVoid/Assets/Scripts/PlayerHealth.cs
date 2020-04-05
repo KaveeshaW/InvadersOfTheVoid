@@ -7,6 +7,7 @@ public class PlayerHealth : MonoBehaviour
 
 	public int maxHealth = 100;
 	public int currentHealth;
+  public int howMuchDamage =  25;
 
 	public HealthBar healthBar;
 
@@ -18,22 +19,22 @@ public class PlayerHealth : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
-    {
-		if (Input.GetKeyDown(KeyCode.Space))
-		{
-			TakeDamage(20);
-		}
-        
-    }
-
-    // private void OnCollisionEnter2D(Collision2D col)
+    // void Update()
     // {
-    //     if(col.transform.CompareTag("enemy"))
-    //     {
-    //         TakeDamage(10);
-    //     }
+		// if (Input.GetKeyDown(KeyCode.Space))
+		// {
+		// 	TakeDamage(damage);
+		// }
+        
     // }
+
+    private void OnCollisionEnter2D(Collision2D col)
+    {
+        if(col.transform.CompareTag("enemy"))
+        {
+            TakeDamage(howMuchDamage);
+        }
+    }
 
 	void TakeDamage(int damage)
 	{
