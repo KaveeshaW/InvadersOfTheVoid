@@ -16,12 +16,23 @@ public class bullet : MonoBehaviour
     }
 
     void OnTriggerEnter2D(Collider2D hitInfo) {
+        tilemapScript tilemap = hitInfo.GetComponent<tilemapScript>();
         enemyHealth enemy =  hitInfo.GetComponent<enemyHealth>();
+        MovingPlatform2 movingPlatform = hitInfo.GetComponent<MovingPlatform2>();
         //if the enemy is there
         if(enemy != null) {
             //destroys the bullet
             Destroy(gameObject);
             enemy.TakeDamage(damage);
+        } 
+        //checks to see if the tilemap exists or not
+        if(tilemap != null) {
+            //destroys the bullet
+            Destroy(gameObject);
+        } 
+        if(movingPlatform != null) {
+            //destroys the bullet
+            Destroy(gameObject);
         } 
     }
 }

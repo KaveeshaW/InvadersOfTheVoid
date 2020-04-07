@@ -11,7 +11,7 @@ public class enemyHealth : MonoBehaviour
 
 	public HealthBar healthBar;
     //public GameObject deathEffect;
-
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -33,5 +33,6 @@ public class enemyHealth : MonoBehaviour
     void Die() {
         //Instantiate(deathEffect, transform.position, Quaternion.identity);
         Destroy(gameObject);
+        FindObjectOfType<LocalGameManager>().YouWin();
     }
 }
