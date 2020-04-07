@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/kaveesha.unity
+- path: Assets/Scenes/Room_Eugenio.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
