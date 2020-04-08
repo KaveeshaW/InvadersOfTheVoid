@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class MovingPlatform2 : MonoBehaviour
 {
-    float directionX, moveSpeed = 4f;
+    float directionX;
+    public float moveSpeed;
     bool moveRight = true;
 
     void Update () {

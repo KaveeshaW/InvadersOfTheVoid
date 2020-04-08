@@ -13,120 +13,242 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-04-07T00:36:39.855-05:00
-  initializedAtString: 2020-04-06T22:12:19.185-05:00
+  lastUpdatedAtString: 2020-04-07T19:50:02.360-05:00
+  initializedAtString: 2020-04-07T15:43:03.696-05:00
   entries:
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fallingPlatform.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fallingPlatform.meta
+    projectPath: Assets\fallingPlatform.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fallingPlatform\falling.anim
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fallingPlatform\falling.anim
+    projectPath: Assets\fallingPlatform\falling.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fallingPlatform\falling.anim.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fallingPlatform\falling.anim.meta
+    projectPath: Assets\fallingPlatform\falling.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fallingPlatform\fallingPlatform.controller
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fallingPlatform\fallingPlatform.controller
+    projectPath: Assets\fallingPlatform\fallingPlatform.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fallingPlatform\fallingPlatform.controller.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fallingPlatform\fallingPlatform.controller.meta
+    projectPath: Assets\fallingPlatform\fallingPlatform.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fallingPlatform\idle_platform.anim
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fallingPlatform\idle_platform.anim
+    projectPath: Assets\fallingPlatform\idle_platform.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fallingPlatform\idle_platform.anim.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fallingPlatform\idle_platform.anim.meta
+    projectPath: Assets\fallingPlatform\idle_platform.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fruit.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fruit.meta
+    projectPath: Assets\fruit.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fruit\apple.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fruit\apple.meta
+    projectPath: Assets\fruit\apple.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fruit\apple\apple.controller
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fruit\apple\apple.controller
+    projectPath: Assets\fruit\apple\apple.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fruit\apple\apple.controller.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fruit\apple\apple.controller.meta
+    projectPath: Assets\fruit\apple\apple.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fruit\apple\apple_idle.anim
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fruit\apple\apple_idle.anim
+    projectPath: Assets\fruit\apple\apple_idle.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fruit\apple\apple_idle.anim.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fruit\apple\apple_idle.anim.meta
+    projectPath: Assets\fruit\apple\apple_idle.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fruit\kiwi.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fruit\kiwi.meta
+    projectPath: Assets\fruit\kiwi.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fruit\kiwi\kiwi.controller
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fruit\kiwi\kiwi.controller
+    projectPath: Assets\fruit\kiwi\kiwi.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fruit\kiwi\kiwi.controller.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fruit\kiwi\kiwi.controller.meta
+    projectPath: Assets\fruit\kiwi\kiwi.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fruit\kiwi\kiwi_idle.anim
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fruit\kiwi\kiwi_idle.anim
+    projectPath: Assets\fruit\kiwi\kiwi_idle.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fruit\kiwi\kiwi_idle.anim.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\fruit\kiwi\kiwi_idle.anim.meta
+    projectPath: Assets\fruit\kiwi\kiwi_idle.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Liscencing.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Liscencing.meta
+    projectPath: Assets\Liscencing.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Liscencing\New Text
+      Document.txt
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Liscencing\New
+      Text Document.txt
+    projectPath: Assets\Liscencing\New Text Document.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Liscencing\New Text
+      Document.txt.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Liscencing\New
+      Text Document.txt.meta
+    projectPath: Assets\Liscencing\New Text Document.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\LocalGameManager.cs
     fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\LocalGameManager.cs
     projectPath: Assets\LocalGameManager.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\LocalGameManager.cs.meta
     fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\LocalGameManager.cs.meta
     projectPath: Assets\LocalGameManager.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\animation\flying2.anim
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\animation\flying2.anim
-    projectPath: Assets\myBat\animation\flying2.anim
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\animation\enemy_moveBackAndForth
+      1.controller
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\animation\enemy_moveBackAndForth
+      1.controller
+    projectPath: Assets\myBat\animation\enemy_moveBackAndForth 1.controller
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat1.png
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat1.png
-    projectPath: Assets\myBat\bat1.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myTrampoline.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myTrampoline.meta
+    projectPath: Assets\myTrampoline.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat1.png.meta
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat1.png.meta
-    projectPath: Assets\myBat\bat1.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myTrampoline\Animation.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myTrampoline\Animation.meta
+    projectPath: Assets\myTrampoline\Animation.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat2.png
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat2.png
-    projectPath: Assets\myBat\bat2.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myTrampoline\Animation\Trampoline.controller
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myTrampoline\Animation\Trampoline.controller
+    projectPath: Assets\myTrampoline\Animation\Trampoline.controller
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat2.png.meta
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat2.png.meta
-    projectPath: Assets\myBat\bat2.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myTrampoline\Animation\Trampoline.controller.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myTrampoline\Animation\Trampoline.controller.meta
+    projectPath: Assets\myTrampoline\Animation\Trampoline.controller.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat3.png
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat3.png
-    projectPath: Assets\myBat\bat3.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myTrampoline\Animation\trampoline_jump.anim
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myTrampoline\Animation\trampoline_jump.anim
+    projectPath: Assets\myTrampoline\Animation\trampoline_jump.anim
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat3.png.meta
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat3.png.meta
-    projectPath: Assets\myBat\bat3.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myTrampoline\Animation\trampoline_jump.anim.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myTrampoline\Animation\trampoline_jump.anim.meta
+    projectPath: Assets\myTrampoline\Animation\trampoline_jump.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat4.png
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat4.png
-    projectPath: Assets\myBat\bat4.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Pictures\Game_Over.jpg
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Pictures\Game_Over.jpg
+    projectPath: Assets\Pictures\Game_Over.jpg
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat4.png.meta
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat4.png.meta
-    projectPath: Assets\myBat\bat4.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Pictures\Game_Over.jpg.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Pictures\Game_Over.jpg.meta
+    projectPath: Assets\Pictures\Game_Over.jpg.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat5.png
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat5.png
-    projectPath: Assets\myBat\bat5.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Pictures\thankyou.png
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Pictures\thankyou.png
+    projectPath: Assets\Pictures\thankyou.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat5.png.meta
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat5.png.meta
-    projectPath: Assets\myBat\bat5.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Pictures\thankyou.png.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Pictures\thankyou.png.meta
+    projectPath: Assets\Pictures\thankyou.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat6.png
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat6.png
-    projectPath: Assets\myBat\bat6.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Pixel Adventure 2\Assets\Enemies\Bat\bat_hit.anim
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Pixel
+      Adventure 2\Assets\Enemies\Bat\bat_hit.anim
+    projectPath: Assets\Pixel Adventure 2\Assets\Enemies\Bat\bat_hit.anim
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat6.png.meta
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat6.png.meta
-    projectPath: Assets\myBat\bat6.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Pixel Adventure 2\Assets\Enemies\Bat\bat_hit.anim.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Pixel
+      Adventure 2\Assets\Enemies\Bat\bat_hit.anim.meta
+    projectPath: Assets\Pixel Adventure 2\Assets\Enemies\Bat\bat_hit.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat7.png
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat7.png
-    projectPath: Assets\myBat\bat7.png
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scenes\gameOver.unity
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scenes\gameOver.unity
+    projectPath: Assets\Scenes\gameOver.unity
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat7.png.meta
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\bat7.png.meta
-    projectPath: Assets\myBat\bat7.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\Flying_angery_46x30.png
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\Flying_angery_46x30.png
-    projectPath: Assets\myBat\Flying_angery_46x30.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\Flying_angery_46x30.png.meta
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\myBat\Flying_angery_46x30.png.meta
-    projectPath: Assets\myBat\Flying_angery_46x30.png.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scenes\gameOver.unity.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scenes\gameOver.unity.meta
+    projectPath: Assets\Scenes\gameOver.unity.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -136,30 +258,260 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scenes\thanksForPlaying.unity
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scenes\thanksForPlaying.unity
+    projectPath: Assets\Scenes\thanksForPlaying.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scenes\thanksForPlaying.unity.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scenes\thanksForPlaying.unity.meta
+    projectPath: Assets\Scenes\thanksForPlaying.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\apple.cs
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\apple.cs
+    projectPath: Assets\Scripts\apple.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\apple.cs.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\apple.cs.meta
+    projectPath: Assets\Scripts\apple.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\BossEnding.cs
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\BossEnding.cs
+    projectPath: Assets\Scripts\BossEnding.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\BossEnding.cs.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\BossEnding.cs.meta
+    projectPath: Assets\Scripts\BossEnding.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\bullet.cs
     fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\bullet.cs
     projectPath: Assets\Scripts\bullet.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\Door\DoorCheck.cs
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\Door\DoorCheck.cs
+    projectPath: Assets\Scripts\Door\DoorCheck.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\DoorCheckEnding.cs
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\DoorCheckEnding.cs
+    projectPath: Assets\Scripts\DoorCheckEnding.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\DoorCheckEnding.cs.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\DoorCheckEnding.cs.meta
+    projectPath: Assets\Scripts\DoorCheckEnding.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\Enemy.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\Enemy.meta
+    projectPath: Assets\Scripts\Enemy.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\Enemy\bossBattleEnemyAI.cs
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\Enemy\bossBattleEnemyAI.cs
+    projectPath: Assets\Scripts\Enemy\bossBattleEnemyAI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\Enemy\bossBattleEnemyAI.cs.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\Enemy\bossBattleEnemyAI.cs.meta
+    projectPath: Assets\Scripts\Enemy\bossBattleEnemyAI.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\Enemy\EnemyAI.cs
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\Enemy\EnemyAI.cs
+    projectPath: Assets\Scripts\Enemy\EnemyAI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\Enemy\EnemyAI.cs.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\Enemy\EnemyAI.cs.meta
+    projectPath: Assets\Scripts\Enemy\EnemyAI.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\Enemy\enemyHealth.cs
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\Enemy\enemyHealth.cs
+    projectPath: Assets\Scripts\Enemy\enemyHealth.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\Enemy\enemyHealth.cs.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\Enemy\enemyHealth.cs.meta
+    projectPath: Assets\Scripts\Enemy\enemyHealth.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\Enemy\enemyMovement.cs
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\Enemy\enemyMovement.cs
+    projectPath: Assets\Scripts\Enemy\enemyMovement.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\Enemy\enemyMovement.cs.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\Enemy\enemyMovement.cs.meta
+    projectPath: Assets\Scripts\Enemy\enemyMovement.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\EnemyAI.cs
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\EnemyAI.cs
+    projectPath: Assets\Scripts\EnemyAI.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\EnemyAI.cs.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\EnemyAI.cs.meta
+    projectPath: Assets\Scripts\EnemyAI.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\enemyHealth.cs
     fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\enemyHealth.cs
     projectPath: Assets\Scripts\enemyHealth.cs
     originalPath: 
     indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\enemyHealth.cs.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\enemyHealth.cs.meta
+    projectPath: Assets\Scripts\enemyHealth.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\enemyMovement.cs
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\enemyMovement.cs
+    projectPath: Assets\Scripts\enemyMovement.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\enemyMovement.cs.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\enemyMovement.cs.meta
+    projectPath: Assets\Scripts\enemyMovement.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\fallingPlatformScript.cs
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\fallingPlatformScript.cs
+    projectPath: Assets\Scripts\fallingPlatformScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\fallingPlatformScript.cs.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\fallingPlatformScript.cs.meta
+    projectPath: Assets\Scripts\fallingPlatformScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\gameOver.cs
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\gameOver.cs
+    projectPath: Assets\Scripts\gameOver.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\gameOver.cs.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\gameOver.cs.meta
+    projectPath: Assets\Scripts\gameOver.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\LocalGameManager.cs
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\LocalGameManager.cs
+    projectPath: Assets\Scripts\LocalGameManager.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\LocalGameManager.cs.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\LocalGameManager.cs.meta
+    projectPath: Assets\Scripts\LocalGameManager.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\MovingPlatform2.cs
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\MovingPlatform2.cs
+    projectPath: Assets\Scripts\MovingPlatform2.cs
+    originalPath: 
+    indexStatus: 0
     workTreeStatus: 3
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\tilemapScript.cs
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\tilemapScript.cs
-    projectPath: Assets\Scripts\tilemapScript.cs
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\playAgain.cs
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\playAgain.cs
+    projectPath: Assets\Scripts\playAgain.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\tilemapScript.cs.meta
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\tilemapScript.cs.meta
-    projectPath: Assets\Scripts\tilemapScript.cs.meta
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\playAgain.cs.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\playAgain.cs.meta
+    projectPath: Assets\Scripts\playAgain.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\PlayerHealth.cs
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\PlayerHealth.cs
+    projectPath: Assets\Scripts\PlayerHealth.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\trampolineScript.cs
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\trampolineScript.cs
+    projectPath: Assets\Scripts\trampolineScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\trampolineScript.cs.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Scripts\trampolineScript.cs.meta
+    projectPath: Assets\Scripts\trampolineScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Sounds\juhani-junkala-epic-boss-battle.mp3
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Sounds\juhani-junkala-epic-boss-battle.mp3
+    projectPath: Assets\Sounds\juhani-junkala-epic-boss-battle.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Sounds\juhani-junkala-epic-boss-battle.mp3.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Sounds\juhani-junkala-epic-boss-battle.mp3.meta
+    projectPath: Assets\Sounds\juhani-junkala-epic-boss-battle.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Sounds\No Hope.mp3
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Sounds\No
+      Hope.mp3
+    projectPath: Assets\Sounds\No Hope.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Sounds\No Hope.mp3.meta
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Assets\Sounds\No
+      Hope.mp3.meta
+    projectPath: Assets\Sounds\No Hope.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\AnnotationManager
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\AnnotationManager
+    projectPath: Library\AnnotationManager
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ArtifactDB
     fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\ArtifactDB
     projectPath: Library\ArtifactDB
@@ -175,12 +527,6 @@ MonoBehaviour:
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\expandedItems
     fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\expandedItems
     projectPath: Library\expandedItems
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\branches.yaml
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -205,12 +551,6 @@ MonoBehaviour:
   - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
-    projectPath: Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -262,15 +602,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\obj\Debug\AstarPathfindingProject.csprojAssemblyReference.cache
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\obj\Debug\AstarPathfindingProject.csprojAssemblyReference.cache
-    projectPath: obj\Debug\AstarPathfindingProject.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\obj\Debug\AstarPathfindingProjectEditor.csprojAssemblyReference.cache
-    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\obj\Debug\AstarPathfindingProjectEditor.csprojAssemblyReference.cache
-    projectPath: obj\Debug\AstarPathfindingProjectEditor.csprojAssemblyReference.cache
+  - path: Code\InvadersOfTheVoidGame\InvadersOfTheVoid\ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Kaveesha\Github\Group-13-Spring-2020\Code\InvadersOfTheVoidGame\InvadersOfTheVoid\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

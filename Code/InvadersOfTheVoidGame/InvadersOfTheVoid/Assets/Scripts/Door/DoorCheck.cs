@@ -11,6 +11,7 @@ public class DoorCheck : MonoBehaviour
     public void Start()
     {
         keyReference = GameObject.Find("key").GetComponent<InteractKey>();
+        Debug.Log(keyReference.hasKey);
     }
 
     //Check if player is at scene, moves to the next scene
