@@ -67,7 +67,7 @@ public class PlayerHealth : MonoBehaviour
     //a is the alpha component of the color, either transparent or opaque
 		color.a = 0.5f;
 		renderer.material.color = color;
-		yield return new WaitForSeconds (3f);
+		yield return new WaitForSeconds (2f);
     //not invulnerable any more
 		Physics2D.IgnoreLayerCollision (8, 9, false);
     invincible = false;
