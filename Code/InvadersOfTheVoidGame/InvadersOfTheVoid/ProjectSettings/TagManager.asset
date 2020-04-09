@@ -9,6 +9,8 @@ TagManager:
   - enemy
   - key
   - bullet
+  - Crystal
+  - gas
   layers:
   - Default
   - TransparentFX
@@ -20,7 +22,7 @@ TagManager:
   - 
   - player
   - enemy
-  - 
+  - background
   - 
   - 
   - 
