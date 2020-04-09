@@ -7,11 +7,13 @@ public class DoorCheck : MonoBehaviour
 {
     //Reference gives the ability to use the bool between scripts
     private InteractKey keyReference;  
+    Scene scene;
 
     public void Start()
     {
+            // Return the current Active Scene in order to get the current Scene name.
+        scene = SceneManager.GetActiveScene();
         keyReference = GameObject.Find("key").GetComponent<InteractKey>();
-        Debug.Log(keyReference.hasKey);
     }
 
     //Check if player is at scene, moves to the next scene
@@ -19,8 +21,12 @@ public class DoorCheck : MonoBehaviour
     {
         if (other.CompareTag("player") && (keyReference.hasKey == true) )
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-            Debug.Log("Door Check");
+            if(scene.name == "kaveesha") {
+                SceneManager.LoadScene("thanksForPlaying");
+            }
+            if(scene.name == "Room1_Latest") {
+                SceneManager.LoadScene("Room2_TBC");
+            }
             keyReference.hasKey = false;
         }
     }

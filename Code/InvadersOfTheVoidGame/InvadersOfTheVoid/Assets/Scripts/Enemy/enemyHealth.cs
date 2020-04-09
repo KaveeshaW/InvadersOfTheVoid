@@ -34,7 +34,7 @@ public class enemyHealth : MonoBehaviour
     void Die() {
         //Instantiate(deathEffect, transform.position, Quaternion.identity);
         Destroy(gameObject);
-        key.transform.position = new Vector3(2.13f, -7.5f, 0f);
-        FindObjectOfType<LocalGameManager>().YouWin();
+        key.transform.position = new Vector3(-11.13f, -7.5f, 0f);
+        //FindObjectOfType<LocalGameManager>().YouWin();
     }
 }
