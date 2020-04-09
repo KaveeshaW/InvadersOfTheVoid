@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Pathfinding; 
-
+using UnityEngine.SceneManagement;
 public class EnemyAI : MonoBehaviour
 {
     public Transform target;
-
+    Scene scene;
     public float speed = 600f;
     public float nextWaypointDistance = 3f;
 
@@ -28,6 +28,8 @@ public class EnemyAI : MonoBehaviour
         //keep doing this in an interval
         //call it instantly, repeat rate
         InvokeRepeating("UpdatePath", 0f, .5f);
+        // Return the current Active Scene in order to get the current Scene name.
+        scene = SceneManager.GetActiveScene();
     }
 
     //updates the path
@@ -86,11 +88,22 @@ public class EnemyAI : MonoBehaviour
 
         if (force.x >= 0.01f)
         {
-            enemyGFX.localScale = new Vector3(-4f, 4f, 4f);
+            if(scene.name == "Room1_Latest") {
+                enemyGFX.localScale = new Vector3(-4f, 4f, 4f);
+            }
+            else if(scene.name == "kaveesha") {
+                enemyGFX.localScale = new Vector3(-12f, 12f, 12f);
+            }
+
         }
         else if (force.x <= 0.01f)
         {
-            enemyGFX.localScale = new Vector3(4f, 4f, 4f);
+            if(scene.name == "Room1_Latest") {
+                enemyGFX.localScale = new Vector3(4f, 4f, 4f);
+            }
+            else if(scene.name == "kaveesha") {
+                enemyGFX.localScale = new Vector3(12f, 12f, 12f);
+            }
         }
     }
 }
