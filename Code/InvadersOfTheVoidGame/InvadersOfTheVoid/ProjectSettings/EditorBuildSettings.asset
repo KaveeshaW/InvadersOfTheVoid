@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Main_Menu.unity
     guid: c2a95aa76a69f44828a788772b42f0bc
   - enabled: 1
+    path: Assets/Scenes/Adrian.unity
+    guid: 2792c2fbaa55ff24ebea3d53a9b5aadb
+  - enabled: 1
     path: Assets/Scenes/Room1_Latest.unity
     guid: 93cd100383e475c4ea37e2529dc71fbf
   - enabled: 1
