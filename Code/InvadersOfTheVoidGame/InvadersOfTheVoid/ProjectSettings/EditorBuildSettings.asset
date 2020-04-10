@@ -14,9 +14,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Room1_Latest.unity
     guid: 93cd100383e475c4ea37e2529dc71fbf
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Room2_TBC.unity
     guid: d24f7446d83a2b946b985ddf9aaeee04
+  - enabled: 1
+    path: Assets/Scenes/Cecilia.unity
+    guid: 7b2659721fc0540628b711344722a720
   - enabled: 1
     path: Assets/Scenes/kaveesha.unity
     guid: 7972630fe47a798458e5a812aad84c6c
