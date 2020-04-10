@@ -66,3 +66,6 @@ TagManager:
   - name: Interactable Objects
     uniqueID: 2549902097
     locked: 0
+  - name: Darkness
+    uniqueID: 2950645281
+    locked: 0
