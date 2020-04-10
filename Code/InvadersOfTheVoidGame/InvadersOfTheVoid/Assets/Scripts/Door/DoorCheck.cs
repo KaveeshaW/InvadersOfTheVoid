@@ -21,12 +21,15 @@ public class DoorCheck : MonoBehaviour
     {
         if (other.CompareTag("player") && (keyReference.hasKey == true) )
         {
+            /*
             if(scene.name == "kaveesha") {
                 SceneManager.LoadScene("thanksForPlaying");
             }
             if(scene.name == "Room1_Latest") {
                 SceneManager.LoadScene("Room2_TBC");
             }
+            */
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
             keyReference.hasKey = false;
         }
     }

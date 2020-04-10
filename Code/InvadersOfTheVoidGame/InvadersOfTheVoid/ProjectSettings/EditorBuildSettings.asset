@@ -24,12 +24,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Cecilia.unity
     guid: 7b2659721fc0540628b711344722a720
   - enabled: 1
+    path: Assets/Scenes/Room_Eugenio.unity
+    guid: e016b42ae069ddc408a27610509a3535
+  - enabled: 1
     path: Assets/Scenes/kaveesha.unity
     guid: 7972630fe47a798458e5a812aad84c6c
   - enabled: 1
-    path: Assets/Scenes/gameOver.unity
-    guid: 8e4689badb6c5d149a8e25cf4d56c21e
-  - enabled: 1
     path: Assets/Scenes/thanksForPlaying.unity
     guid: 4b6feaa52039a1b4ba724d16eb2bbb18
+  - enabled: 1
+    path: Assets/Scenes/gameOver.unity
+    guid: 8e4689badb6c5d149a8e25cf4d56c21e
   m_configObjects: {}

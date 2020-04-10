@@ -9,6 +9,7 @@ public class PortalCheck : MonoBehaviour
     private InteractKey keyReference1;
     private InteractKey keyReference2;
     private InteractKey keyReference3;
+    public bool key;
 
     public void Start()
     {
@@ -32,6 +33,11 @@ public class PortalCheck : MonoBehaviour
             keyReference1.hasKey = false;
             keyReference2.hasKey = false;
             keyReference3.hasKey = false;
+        }
+        else if (key)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+
         }
     }
 
