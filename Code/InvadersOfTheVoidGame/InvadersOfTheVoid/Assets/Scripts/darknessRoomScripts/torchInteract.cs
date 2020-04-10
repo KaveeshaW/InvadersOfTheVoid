@@ -47,7 +47,7 @@ public class torchInteract : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetButtonDown("Fire1") && torchFrontOf == true && rend.sprite == torchOn)
+        if (Input.GetButtonDown("Fire1") && torchFrontOf == true && rend.sprite == torchOn && playerTorch.sortingLayerID == SortingLayer.NameToID("Default"))
         {
             //TORCH IS ON SCONCE
             //TORCH MUST BE REMOVED FROM SCONCE AND PLACED IN PLAYER'S HAND
@@ -69,7 +69,7 @@ public class torchInteract : MonoBehaviour
             //torchMask.sortingLayerName = "Default";
 
         }
-        else if (Input.GetButtonDown("Fire1") && torchFrontOf == true && rend.sprite == torchOff)
+        else if (Input.GetButtonDown("Fire1") && torchFrontOf == true && rend.sprite == torchOff && playerTorch.sortingLayerID == SortingLayer.NameToID("Darkness"))
         {
             rend.sprite = torchOn;
             torchMask.frontSortingLayerID = SortingLayer.NameToID("Darkness");
@@ -118,6 +118,12 @@ public class torchInteract : MonoBehaviour
         {
             float newY = currentY + (amountToMove);
             Vector2 pos = new Vector2(currentX, newY);
+            moveableObject.transform.position = pos;
+        }
+        else if (direction == 'r')
+        {
+            float newX = currentX + (amountToMove);
+            Vector2 pos = new Vector2(newX, currentY);
             moveableObject.transform.position = pos;
         }
     }
