@@ -8,8 +8,6 @@ public class bullet : MonoBehaviour
     public float speed = 20f;
     public Rigidbody2D rb;
     public int damage = 10;
-
-    public enemyHealth enemyAnim;
     public GameObject impact;
     void Start()
     {
@@ -20,20 +18,15 @@ public class bullet : MonoBehaviour
     }
 
     void OnTriggerEnter2D(Collider2D hitInfo) {
-        //getting all of the different components of the scene that the bullet could touch
-        tilemapScript tilemap = hitInfo.GetComponent<tilemapScript>();
+        //want to use the enemy takedamage function
         enemyHealth enemy =  hitInfo.GetComponent<enemyHealth>();
-        MovingPlatform2 movingPlatform = hitInfo.GetComponent<MovingPlatform2>();
-        fallingPlatformScript fallingPlatform = hitInfo.GetComponent<fallingPlatformScript>();
-        trampolineScript trampoline = hitInfo.GetComponent<trampolineScript>();
-        //if the enemy is there
-        if(enemy != null) {
+        //if the enemy is hit
+        if(hitInfo.transform.name == "enemy_AI") {
             Impact();
             enemy.TakeDamage(damage);
-            //enemyAnim.animator.SetBool("batHit", false);
         } 
-        //checks to see if the tilemap exists or not
-        if(tilemap != null || movingPlatform != null || fallingPlatform != null || trampoline != null) {
+        // hitting anything else does not do anything except trigger the explosion
+        else {
             Impact();
         } 
     }

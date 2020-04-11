@@ -14,6 +14,8 @@ public class PlayerHealth : MonoBehaviour
   public bool invincible = false;
 	public HealthBar healthBar;
 
+  public GameObject deathEffect;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -41,7 +43,7 @@ public class PlayerHealth : MonoBehaviour
         }
     }
 
-	void TakeDamage(int damage)
+	public void TakeDamage(int damage)
 	{
 		currentHealth -= damage;
 
@@ -52,6 +54,7 @@ public class PlayerHealth : MonoBehaviour
       StartCoroutine("Invulnerability");
     }
     if(currentHealth <= 0) {
+      //Instantiate(deathEffect, transform.position, Quaternion.identity);
       SceneManager.LoadScene("gameOver");
     }
 	}
@@ -59,7 +62,6 @@ public class PlayerHealth : MonoBehaviour
   public IEnumerator Invulnerability()
 	{
     invincible = true;
-    Debug.Log("In here!!!!!!!!!!!");
     //the numbers in the function mean which layers should be ignored
     //layer 8 is the player, layer 9 is the enemy
 		Physics2D.IgnoreLayerCollision (8, 9, true);
