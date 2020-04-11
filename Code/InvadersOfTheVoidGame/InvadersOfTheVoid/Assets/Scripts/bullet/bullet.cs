@@ -10,6 +10,7 @@ public class bullet : MonoBehaviour
     public int damage = 10;
 
     public enemyHealth enemyAnim;
+    public GameObject impact;
     void Start()
     {
       //when bullet spawns, fly forward  
@@ -27,15 +28,19 @@ public class bullet : MonoBehaviour
         trampolineScript trampoline = hitInfo.GetComponent<trampolineScript>();
         //if the enemy is there
         if(enemy != null) {
-            //destroys the bullet
-            Destroy(gameObject);
+            Impact();
             enemy.TakeDamage(damage);
             //enemyAnim.animator.SetBool("batHit", false);
         } 
         //checks to see if the tilemap exists or not
         if(tilemap != null || movingPlatform != null || fallingPlatform != null || trampoline != null) {
-            //destroys the bullet
-            Destroy(gameObject);
+            Impact();
         } 
+    }
+
+    void Impact() {
+        //destroys the bullet
+        Destroy(gameObject);
+        Instantiate(impact, transform.position, transform.rotation);
     }
 }

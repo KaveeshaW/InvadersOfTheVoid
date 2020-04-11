@@ -26,7 +26,7 @@ public class EnemyAI : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
 
         //keep doing this in an interval
-        //call it instantly, repeat rate
+        //call it after one second to allow for animation, repeat rate
         InvokeRepeating("UpdatePath", 1f, .5f);
         // Return the current Active Scene in order to get the current Scene name.
         scene = SceneManager.GetActiveScene();

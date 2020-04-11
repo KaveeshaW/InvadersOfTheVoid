@@ -279,6 +279,7 @@ MonoBehaviour:
   key: {fileID: 0}
   animator: {fileID: 0}
   rb: {fileID: 0}
+  deathEffect: {fileID: 0}
 --- !u!114 &25475697
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -570,8 +571,10 @@ MonoBehaviour:
   howMuchDamage: 10
   healthBar: {fileID: 1452933590}
   key: {fileID: 512018813}
-  animator: {fileID: 0}
-  rb: {fileID: 0}
+  animator: {fileID: 306371294}
+  rb: {fileID: 306371296}
+  deathEffect: {fileID: 1755349173569476, guid: 3c45864be6a059a4a82a25e285298338,
+    type: 3}
 --- !u!95 &306371294
 Animator:
   serializedVersion: 3
@@ -3388,7 +3391,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 12.314495
+  orthographic size: 11.133537
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2

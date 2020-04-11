@@ -14,7 +14,7 @@ public class enemyHealth : MonoBehaviour
 
     public Animator animator;
     public Rigidbody2D rb;
-    //public GameObject deathEffect;
+    public GameObject deathEffect;
     
     // Start is called before the first frame update
     void Start()
@@ -32,15 +32,21 @@ public class enemyHealth : MonoBehaviour
 		healthBar.setHealth(currentHealth);
         
         animator.Play("bat_hit");
+        //slows down the bat when hit
         rb.velocity = rb.velocity * 0.7f;
+        //second phase
+        if(currentHealth > 0 && currentHealth <= 100) {
+
+        }
         if(currentHealth <= 0) {
             Die();
         }
 	}
     void Die() {
-        //Instantiate(deathEffect, transform.position, Quaternion.identity);
+        //quaternion identity sets the rotation to null
+        Instantiate(deathEffect, transform.position, Quaternion.identity);
         Destroy(gameObject);
+        //puts the key where the player can access it
         key.transform.position = new Vector3(-11.13f, -7.5f, 0f);
-        //FindObjectOfType<LocalGameManager>().YouWin();
     }
 }
