@@ -27,7 +27,7 @@ public class EnemyAI : MonoBehaviour
 
         //keep doing this in an interval
         //call it instantly, repeat rate
-        InvokeRepeating("UpdatePath", 0f, .5f);
+        InvokeRepeating("UpdatePath", 1f, .5f);
         // Return the current Active Scene in order to get the current Scene name.
         scene = SceneManager.GetActiveScene();
     }

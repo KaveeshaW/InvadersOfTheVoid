@@ -25,6 +25,7 @@
      }
  
      void DropPlatform() {
+         //the platform will respond to the player and start falling
          rb.isKinematic = false;
      }
  }
