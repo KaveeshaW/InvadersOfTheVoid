@@ -10,6 +10,6 @@ public class gameOver : MonoBehaviour
     }
     public void QuitGame() {
         Debug.Log("QUIT");
-        Application.Quit();
+        SceneManager.LoadScene("Main_Menu");
     }
 }
