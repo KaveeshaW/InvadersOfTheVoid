@@ -4983,6 +4983,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba141ddbb58e631448283d71edcf1457, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &2099944803 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5828684006233979243, guid: fea4aafe7b3e97c4ebb26034ef9c4fe8,
+    type: 3}
+  m_PrefabInstance: {fileID: 5828684004945159423}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &2099944804
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2099944803}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 1a99f72f075f3c34cb3a6fbd4da30771, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &2116133475
 GameObject:
   m_ObjectHideFlags: 0
@@ -5771,7 +5796,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: enemy_moveBackAndForth
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5828684006233979237, guid: fea4aafe7b3e97c4ebb26034ef9c4fe8, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: fea4aafe7b3e97c4ebb26034ef9c4fe8, type: 3}
 --- !u!1001 &7884770682378262694
 PrefabInstance:
