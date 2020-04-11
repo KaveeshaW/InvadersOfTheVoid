@@ -7,7 +7,7 @@ public class apple : MonoBehaviour
     // Start is called before the first frame update
     private SpriteRenderer appleRend;
     private PlayerHealth player;
-    public int appleReward;
+    public int appleReward = 0;
     public GameObject myApple;
     void Start()
     {

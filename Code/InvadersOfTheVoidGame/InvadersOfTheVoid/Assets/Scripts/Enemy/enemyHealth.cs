@@ -36,7 +36,7 @@ public class enemyHealth : MonoBehaviour
         rb.velocity = rb.velocity * 0.7f;
         //second phase
         if(currentHealth > 0 && currentHealth <= 100) {
-
+            
         }
         if(currentHealth <= 0) {
             Die();

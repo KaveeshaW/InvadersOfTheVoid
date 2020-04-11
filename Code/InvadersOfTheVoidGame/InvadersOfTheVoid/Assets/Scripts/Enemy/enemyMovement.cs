@@ -9,13 +9,14 @@ public class enemyMovement : MonoBehaviour
     public float speed = 7;
     Rigidbody2D myBody;
     Transform myTrans;
-    float myWidth, myHeight;
+    float myWidth;
 
     // Start is called before the first frame update
     void Start()
     {
         myTrans = this.transform;
         myBody = this.GetComponent<Rigidbody2D>();
+        //just need the x component
         myWidth = this.GetComponent<SpriteRenderer>().bounds.extents.x;
 
     }

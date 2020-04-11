@@ -19,6 +19,9 @@ public class EnemyAI : MonoBehaviour
     Seeker seeker;
     Rigidbody2D rb;
 
+    private bool m_FacingLeft = true;  // For determining which way the enemy is currently facing. 
+    //pretty important because otherwise the bat will be moving left and right very frequently
+
     // Start is called before the first frame update
     void Start()
     {
@@ -85,25 +88,18 @@ public class EnemyAI : MonoBehaviour
         {
             currentWaypoint++;
         }
-
-        if (force.x >= 0.01f)
+        //going to the right and is facing the left
+        if (force.x >= 0.01f && m_FacingLeft)
         {
-            if(scene.name == "Room1_Latest") {
-                enemyGFX.localScale = new Vector3(-4f, 4f, 4f);
-            }
-            else if(scene.name == "kaveesha") {
-                enemyGFX.localScale = new Vector3(-12f, 12f, 12f);
-            }
+            m_FacingLeft = !m_FacingLeft;
+            transform.Rotate(0f, 180f, 0f);
 
         }
-        else if (force.x <= 0.01f)
+        //going to the left and facing right
+        else if (force.x <= 0.01f && !m_FacingLeft)
         {
-            if(scene.name == "Room1_Latest") {
-                enemyGFX.localScale = new Vector3(4f, 4f, 4f);
-            }
-            else if(scene.name == "kaveesha") {
-                enemyGFX.localScale = new Vector3(12f, 12f, 12f);
-            }
+            m_FacingLeft = !m_FacingLeft;
+            transform.Rotate(0f, 180f, 0f);
         }
     }
 }
