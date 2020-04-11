@@ -8,11 +8,14 @@ public class bullet : MonoBehaviour
     public float speed = 20f;
     public Rigidbody2D rb;
     public int damage = 10;
+
+    public enemyHealth enemyAnim;
     void Start()
     {
       //when bullet spawns, fly forward  
       //move right according to speed
       rb.velocity = transform.right * speed;
+      //enemyAnim = GameObject.Find("animator").GetComponent<enemyHealth>();
     }
 
     void OnTriggerEnter2D(Collider2D hitInfo) {
@@ -27,6 +30,7 @@ public class bullet : MonoBehaviour
             //destroys the bullet
             Destroy(gameObject);
             enemy.TakeDamage(damage);
+            //enemyAnim.animator.SetBool("batHit", false);
         } 
         //checks to see if the tilemap exists or not
         if(tilemap != null || movingPlatform != null || fallingPlatform != null || trampoline != null) {

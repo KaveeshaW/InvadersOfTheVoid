@@ -278,6 +278,7 @@ MonoBehaviour:
   healthBar: {fileID: 1452933590}
   key: {fileID: 0}
   animator: {fileID: 0}
+  rb: {fileID: 0}
 --- !u!114 &25475697
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -570,6 +571,7 @@ MonoBehaviour:
   healthBar: {fileID: 1452933590}
   key: {fileID: 512018813}
   animator: {fileID: 0}
+  rb: {fileID: 0}
 --- !u!95 &306371294
 Animator:
   serializedVersion: 3
@@ -3386,7 +3388,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 9.372951
+  orthographic size: 12.314495
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2

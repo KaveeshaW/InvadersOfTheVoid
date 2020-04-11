@@ -13,6 +13,7 @@ public class enemyHealth : MonoBehaviour
     public GameObject key;
 
     public Animator animator;
+    public Rigidbody2D rb;
     //public GameObject deathEffect;
     
     // Start is called before the first frame update
@@ -21,6 +22,7 @@ public class enemyHealth : MonoBehaviour
 		currentHealth = maxHealth;
 		healthBar.SetMaxHealth(maxHealth);
         animator = GetComponent<Animator>();
+        rb = GetComponent<Rigidbody2D>();
     }
 
 	public void TakeDamage(int damage)
@@ -28,7 +30,9 @@ public class enemyHealth : MonoBehaviour
 		currentHealth -= damage;
 
 		healthBar.setHealth(currentHealth);
-        //animator.SetBool("batHit", true);
+        
+        animator.Play("bat_hit");
+        rb.velocity = rb.velocity * 0.7f;
         if(currentHealth <= 0) {
             Die();
         }
