@@ -9,13 +9,14 @@ public class enemyMovement : MonoBehaviour
     public float speed = 7;
     Rigidbody2D myBody;
     Transform myTrans;
-    float myWidth, myHeight;
+    float myWidth;
 
     // Start is called before the first frame update
     void Start()
     {
         myTrans = this.transform;
         myBody = this.GetComponent<Rigidbody2D>();
+        //just need the x component
         myWidth = this.GetComponent<SpriteRenderer>().bounds.extents.x;
 
     }
@@ -25,17 +26,19 @@ public class enemyMovement : MonoBehaviour
     {
         //check to see if there's ground in front of us before moving forward
         Vector2 lineCastPos = myTrans.position - myTrans.right * myWidth;
-        Debug.DrawLine(lineCastPos, lineCastPos + Vector2.down);
         bool isGrounded = Physics2D.Linecast(lineCastPos, lineCastPos + Vector2.down, enemyMask);
-        Debug.DrawLine(lineCastPos, lineCastPos - myTrans.right.toVector2() * .05f);
         bool isBlocked = Physics2D.Linecast(lineCastPos, lineCastPos - myTrans.right.toVector2() * .05f, enemyMask);
+
+        //need to change the z axis so that the sprite is flipped
+        Vector3 flipped = transform.localScale;
+        flipped.z *= -1f;
 
         //if theres no ground, turn around. Or if I am blocked turn around
         if (!isGrounded || isBlocked)
         {
-            Vector3 currentRotation = myTrans.eulerAngles;
-            currentRotation.y += 180;
-            myTrans.eulerAngles = currentRotation;
+            transform.localScale = flipped;
+            //need to rotate the sprite as well
+            transform.Rotate(0f, 180f, 0f);
         }
 
         //always moving forward
