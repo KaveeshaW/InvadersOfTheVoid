@@ -8,3 +8,5 @@ Music by Cleyton Kauffman - https://soundcloud.com/cleytonkauffman
 
 InnerJourney
 music by audionautix.com
+
+Brackey's Tutorials for implementation and understanding
